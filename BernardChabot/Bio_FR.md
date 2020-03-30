@@ -10,7 +10,7 @@ __Ingénieur agroalimentaire__ de formation, il a animé durant 10 ans des équi
 Durant cette période il a également travaillé à l'adaptation des __principes et méthodes des démarches PLM__ (initialement conçues pour le manufacturing) aux __industries des métiers de la formulation__ (agro-alimentaire, cosmétique, chimie, …) en s'appuyant essentiellement sur la notion d’__invariant métier__.
 
 ------
-Il a ensuite réalisé durant 15 ans des missions PLM  (la plupart du temps avec un positionnement "assistance à maîtrise d’ouvrage") dans un grand nombre d’entreprises, petites ou grandes, et appartenant à des secteurs industriels très variés (énergie, automobile, manufacturing, agro-alimentaire, cosmétique, textile, …).
+Il a ensuite réalisé durant 15 ans des __missions PLM__  (la plupart du temps avec un positionnement __"assistance à maîtrise d’ouvrage"__) dans un grand nombre d’entreprises, petites ou grandes, et appartenant à des secteurs industriels très variés (énergie, automobile, manufacturing, agro-alimentaire, cosmétique, textile, …).
 
 ------
 Pendant cette même période il a mis en oeuvre les __normes et technologies du web sémantique__ (RDF, RDFS, OWL, SPARQL, …) sur les différents domaines de connaissances relatifs à des approches de type __“architecture d’entreprise”__ et/ou __“urbanisation des SI__ dans le but d’industrialiser et d’accélérer les phases amonts d'un projet PLM.
