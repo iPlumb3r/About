@@ -7,7 +7,7 @@ Bernard Chabot est expert en __ingénierie des connaissances__ et en __gestion d
 __Ingénieur agroalimentaire__ de formation, il a animé durant 10 ans des équipes de techniciens de __recherche-développement__ et d’__industrialisation__ de produits agro-alimentaire destinés à la grande distribution …
 
 ------
-Durant cette période il a également travaillé à l'adaptation des __principes et méthodes des démarches PLM__ (initialement conçues pour le manufacturing) aux industries des métiers de la formulation (agro-alimentaire, cosmétique, chimie, …) en s'appuyant essentiellement sur la notion d’invariant métier.
+Durant cette période il a également travaillé à l'adaptation des __principes et méthodes des démarches PLM__ (initialement conçues pour le manufacturing) aux __industries des métiers de la formulation__ (agro-alimentaire, cosmétique, chimie, …) en s'appuyant essentiellement sur la notion d’__invariant métier__.
 
 ------
 Il a ensuite réalisé durant 15 ans des missions PLM  (la plupart du temps avec un positionnement "assistance à maîtrise d’ouvrage") dans un grand nombre d’entreprises, petites ou grandes, et appartenant à des secteurs industriels très variés (énergie, automobile, manufacturing, agro-alimentaire, cosmétique, textile, …).
