@@ -1,4 +1,4 @@
-Knowledge Architect - PLM Consultant "Buisness"
+Knowledge Architect - PLM Consultant "Business"
 ==
 
 Expertise "Métier"
@@ -45,3 +45,40 @@ Reference Enterprise Architecture Framework (REAF)
 Knowledge Representation & Visualization Framework (KRVF)
 * Methodologée basée sur les meilleures pratiques en matière d’ingénieurie des connaissances et des technologies du web sémantique. KRVF permet de construire des referentiels de connaissances pilotés par les ontologies à propos de l’ensemble des informations nécéssaires à la specification d’une solution PLM. 
 
+Expertise "Technique"
+<table>
+    <thead>
+        <tr>
+            <th>Sujet</th>
+            <th>Normes & Références</th>
+            <th>Outils</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Architecture d'Entreprise</td>
+            <td>Praxème, Zachman, …</td>
+            <td>Protégé, System Architect, ...</td>
+        </tr>
+        <tr>
+            <td>Processus métier / Procédure</td>
+            <td>Merise, OSSAD, ...</td>
+            <td>Protégé, yEd, ...</td>
+        </tr>
+        <tr>
+            <td>Modèle sémantique de concepts</td>
+            <td>Praxème, ...</td>
+            <td>Protégé, Semantica, Cmap Tools, yEd, ...</td>
+        </tr>
+        <tr>
+            <td>Gestion des conaissances</td>
+            <td>Topic Maps (XTM), RDF(S)-OWL, ...</td>
+            <td>Protégé, Topincs, Intelligent Topic Manager, ...</td>
+        </tr>
+        <tr>
+            <td>Web Sémantique</td>
+            <td>RDF(S), OWL, SPARQL, SKOS, ...</td>
+            <td>Protégé, TopBraid, ...</td>
+        </tr>
+    </tbody>
+</table>
