@@ -430,11 +430,11 @@ OXYLANE - Consultant Fonctionnel – Spécification d’expression des besoins (
     <tbody>
         <tr>
             <td>Activité</td>
-            <td>: Animation d’ateliers de capture des besoins (par lot métier), analyse et restitution des besoins aux chefs de lots et validation,  rédaction des spécifications fonctionnelles et alimentation des matrices d’exigences.</td>
+            <td>Animation d’ateliers de capture des besoins (par lot métier), analyse et restitution des besoins aux chefs de lots et validation,  rédaction des spécifications fonctionnelles et alimentation des matrices d’exigences.</td>
         </tr>
         <tr>
             <td>Méthodologie</td>
-            <td>CConduite d’ateliers</td>
+            <td>Conduite d’ateliers</td>
         </tr>
         <tr>
             <td>Outil </td>
@@ -443,6 +443,74 @@ OXYLANE - Consultant Fonctionnel – Spécification d’expression des besoins (
         <tr>
             <td>PLM</td>
             <td>FlexPLM</td>
+        </tr>
+    </tbody>
+</table>
+
+PIERRE FABRE - Consultant Fonctionnel – Spécification d’expression des besoins (5 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Support à la formalisation des processus métiers et des cas d’utilisation, mapping avec les fonctionnalités PLM clefs, support au choix des principes fonctionnels d’ENOVIA V6 adéquat.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>Business Process, Architecture d’entreprise, Carto Sémantique</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Semantica, Protégé</td>
+        </tr>
+        <tr>
+            <td>PLM</td>
+            <td>Enovia</td>
+        </tr>
+    </tbody>
+</table>
+
+MICHELIN - Expert Métier / Consultant Fonctionnel – Garant du référentiel de conception (1,5 an)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Formalisation des processus métiers (et des rôles métier), identification des invariants du modèle sémantique, description des outils DS (ENOVIA / DELMIA) en terme de version, module, objet, mapping applicatif entre les niveaux métier et solution.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>SEAMLESS, Business Process, Architecture d’entreprise, ...</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Protégé, yEd</td>
+        </tr>
+        <tr>
+            <td>PLM</td>
+            <td>Enovia</td>
+        </tr>
+    </tbody>
+</table>
+
+ErDF - Expert Métier / Consultant Fonctionnel – Proof Of Concept (1,5 an)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Formalisation des processus métiers (et des rôles métier), identification des invariants du modèle sémantique, description des business case, préparation de la consultation éditeur, réalisation de l’étude comparative.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>ECOMAPS, Business Process, Architecture d’entreprise, ...</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Protégé, yEd</td>
         </tr>
     </tbody>
 </table>
