@@ -95,6 +95,15 @@ Langues
 * Anglais (Lu, Ecrit, Parlé)
 * Allemand (Notions scolaires) 
 
+Parcours professionel
+==
+* 05-1993 - 06-1994 : Sucrerie-Distillerie d'Artenay
+* 07-1994 - 09-2002 : Artenay-Agro Développement (Filiale du groupe Téréos)
+* 10-2002 - 03-2003 : PCO Conseil
+* 04-2002 - 02-2007 : PCO Technologies
+* 08-2008 - 02-2007 : PCO Innovation
+* 03-2014 - 08-2015 : PCO Innovation (“Now part of Accenture”)
+* 09-2015 - Maintenant : Consultant KM, SI / PLM “Freelance”
 
 Expérience
 ==
