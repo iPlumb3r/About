@@ -45,6 +45,8 @@ Knowledge Representation & Visualization Framework (KRVF)
 * Methodologée basée sur les meilleures pratiques en matière d’ingénieurie des connaissances et des technologies du web sémantique. KRVF permet de construire des referentiels de connaissances pilotés par les ontologies à propos de l’ensemble des informations nécéssaires à la specification d’une solution PLM. 
 
 Expertise "Technique"
+-
+
 <table>
     <thead>
         <tr>
