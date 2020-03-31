@@ -13,8 +13,7 @@ Expertise "Métier"
     </thead>
     <tbody>
         <tr>
-            <td>Agro-Alimentaire, Cosmétique, Industrie Pharmaceutique, Industries des métiers de la formulation et des procédés (Chimie, Plastiques, …)
-Industrie manufacturière, CPG</td>
+            <td>Agro-Alimentaire, Cosmétique, Industrie Pharmaceutique, Industries des métiers de la formulation et des procédés (Chimie, Plastiques, …), Industrie manufacturière, CPG</td>
             <td>Conception et industrialisation de produit, Marketing industriel, Production, Contrôle Qualité, Assurance Qualité, Achats, Supply Chain</td>
         </tr>
     </tbody>
