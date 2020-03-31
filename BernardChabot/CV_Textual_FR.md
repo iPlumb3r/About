@@ -373,13 +373,13 @@ GE - Consultant fonctionnel – Etude de cadrage PLM (3 mois)
             <td>Protégé, Longwell, Treebolic</td>
         </tr>
          <tr>
-            <td>PLM </td>
+            <td>PLM</td>
             <td>TeamCenter</td>
         </tr>
     </tbody>
 </table>
 
-PANZANI - Expert Métier / Consultant Fonctionnel – Refonte du Processus d’Innovation  (2 mois)
+PANZANI - Expert Métier / Consultant Fonctionnel – Refonte du Processus d’Innovation (2 mois)
 -
 <table>
     <thead>
@@ -390,11 +390,59 @@ PANZANI - Expert Métier / Consultant Fonctionnel – Refonte du Processus d’I
         </tr>
         <tr>
             <td>Méthodologie</td>
-            <td>Cartographie Sémantique </td>
+            <td>Cartographie Sémantique</td>
         </tr>
         <tr>
             <td>Outil </td>
-            <td>: Protégé, yEd</td>
+            <td>Protégé, yEd</td>
+        </tr>
+    </tbody>
+</table>
+
+SAFT - Consultant Fonctionnel – Outillage support à démarche d’Urbanisation (8 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Conception d’un méta-modèle représentatif de chaque niveau de description de l’Architecture d’Entreprise. Validation du modèle sur un cas d’usage représentatif. Formation des utilisateurs du service informatique.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>Cartographie Sémantique, Architecture d’entreprise</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Protégé, TopBraid</td>
+        </tr>
+        <tr>
+            <td>PLM</td>
+            <td>Windchill</td>
+        </tr>
+    </tbody>
+</table>
+
+OXYLANE - Consultant Fonctionnel – Spécification d’expression des besoins (5 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>: Animation d’ateliers de capture des besoins (par lot métier), analyse et restitution des besoins aux chefs de lots et validation,  rédaction des spécifications fonctionnelles et alimentation des matrices d’exigences.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>CConduite d’ateliers</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Mind Manager, PowerPoint</td>
+        </tr>
+        <tr>
+            <td>PLM</td>
+            <td>FlexPLM</td>
         </tr>
     </tbody>
 </table>
