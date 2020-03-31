@@ -96,6 +96,7 @@ Langues
 
 
 Expérience (10 ans R&D en IAA / 20 ans PLM / 15 ans Knowledge Engineering)
+==
 
 AAD (TEREOS) - Chef de projet - Intégration SIP (3 ans + suivi ...)
 -
@@ -120,4 +121,4 @@ AAD (TEREOS) - Chef de projet - Intégration SIP (3 ans + suivi ...)
         </tr>
     </tbody>
 </table>
-==
+
