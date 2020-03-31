@@ -114,7 +114,7 @@ AAD (TEREOS) - Chef de projet - Intégration SIP (3 ans + suivi ...)
         </tr>
          <tr>
             <td></td>
-            <td>AMOA sur les diverses évolutions fonctionnelles en cours : refonte de la génération automatique de document à partir des données du référentiel, de la formulation, export XML à destination des portails WEB des distributeurs,  intégration des données techniques fournisseurs dans le SIP, …</td>
+            <td>AMOA sur les diverses évolutions fonctionnelles en cours : refonte de la génération automatique de document à partir des données du référentiel, de la formulation, export XML à destination des portails WEB des distributeurs,  intégration des données techniques fournisseurs dans le SIP, ...</td>
         </tr>
         <tr>
             <td>Méthodologie </td>
@@ -127,3 +127,87 @@ AAD (TEREOS) - Chef de projet - Intégration SIP (3 ans + suivi ...)
     </tbody>
 </table>
 
+NOVANDIE (ANDROS) - Chef de projet & Expert métier - Intégration SIP (2 ans + suivi ...)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Analyse du processus transverse de mise en marché et des processus métiers connexes, élaboration du modèle de données conceptuel et formalisation du cycle de vie des Produit, spécification de la stratégie de conduite du changement (communication, formation, support), support à la préparation des données existantes en vue de leur reprise, identification des règles métiers à spécifier et à mettre place dans le cadre du déploiement, ...</td>
+        </tr>
+         <tr>
+            <td></td>
+            <td>AMOA sur les diverses évolutions fonctionnelles en cours. </td>
+        </tr>
+        <tr>
+            <td>Méthodologie </td>
+            <td>Gestion de projet, Analyse des processus</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Advitium</td>
+        </tr>
+    </tbody>
+</table>
+
+TEISSEIRE - Expert métier - Audit SIP (2 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Analyse critique de l’existant du processus de formulation, de ces activités connexes (calcul nutritionnel, étiquetage, …) et des taches rédactionnelles associées (rédaction de fiche technique, ...)</td>
+        </tr>
+        <tr>
+            <td>Méthodologie </td>
+            <td>Cartographie Sémantique</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Semantica, Omnigator</td>
+        </tr>
+    </tbody>
+</table>
+
+PIERRE MARTINET - Expert métier - Audit SIP (3 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Analyse des processus de création et diffusion de l’information produit dans l’entreprise et de leur lien avec les plans d’actions préventives et correctives.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie </td>
+            <td>Cartographie Sémantique</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Semantica, Intelligent Topic Manager</td>
+        </tr>
+    </tbody>
+</table>
+
+
+GALDERMA  - Consultant fonctionnel - Cadrage GED « Affaires Règlementaires » (3 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Analyse des processus et des données du système actuel de gestion des documents réglementaires. Proposition d’optimisations relatives au contexte multi-site de production des « e-CTD ». Cadrage support au déploiement du futur système avec en particulier la définition de la hiérarchie primaire commune de GED.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie </td>
+            <td>Modélisation des processus</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Documentum</td>
+        </tr>
+    </tbody>
+</table>
