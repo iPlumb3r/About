@@ -145,7 +145,7 @@ NOVANDIE (ANDROS) - Chef de projet & Expert métier - Intégration SIP (2 ans + 
             <td>Gestion de projet, Analyse des processus</td>
         </tr>
         <tr>
-            <td>Outil </td>
+            <td>PLM</td>
             <td>Advitium</td>
         </tr>
     </tbody>
@@ -165,7 +165,7 @@ TEISSEIRE - Expert métier - Audit SIP (2 mois)
             <td>Cartographie Sémantique</td>
         </tr>
         <tr>
-            <td>Outil </td>
+            <td>Outil</td>
             <td>Semantica, Omnigator</td>
         </tr>
     </tbody>
@@ -181,11 +181,11 @@ PIERRE MARTINET - Expert métier - Audit SIP (3 mois)
             <td>Analyse des processus de création et diffusion de l’information produit dans l’entreprise et de leur lien avec les plans d’actions préventives et correctives.</td>
         </tr>
         <tr>
-            <td>Méthodologie </td>
+            <td>Méthodologie</td>
             <td>Cartographie Sémantique</td>
         </tr>
         <tr>
-            <td>Outil </td>
+            <td>Outil</td>
             <td>Semantica, Intelligent Topic Manager</td>
         </tr>
     </tbody>
@@ -206,8 +206,32 @@ GALDERMA  - Consultant fonctionnel - Cadrage GED « Affaires Règlementaires » 
             <td>Modélisation des processus</td>
         </tr>
         <tr>
-            <td>Outil </td>
+            <td>GED</td>
             <td>Documentum</td>
+        </tr>
+    </tbody>
+</table>
+
+DCN  - Consultant fonctionnel - Cartographie SI Technique (3 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Etat de lieux du SI technique, mise en évidence du niveau de redondance applicatif.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie </td>
+            <td>Cartographie Sémantique (Génération de carte à partir d’un référentiel structuré), Approche Zachman</td>
+        </tr>
+        <tr>
+            <td>Outil</td>
+            <td>Intelligent Topic Manager</td>
+        </tr>
+        tr>
+            <td>PLM</td>
+            <td>Windchill</td>
         </tr>
     </tbody>
 </table>
