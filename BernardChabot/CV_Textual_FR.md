@@ -4,7 +4,6 @@ Knowledge Architect - PLM Consultant "Buisness"
 Expertise "Métier"
 -
 
-Tableau :
 <table>
     <thead>
         <tr>
