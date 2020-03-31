@@ -229,9 +229,53 @@ DCN  - Consultant fonctionnel - Cartographie SI Technique (3 mois)
             <td>Outil</td>
             <td>Intelligent Topic Manager</td>
         </tr>
-        tr>
+        <tr>
             <td>PLM</td>
             <td>Windchill</td>
+        </tr>
+    </tbody>
+</table>
+
+BEL  - Expert métier - Etude de cadrage SIP (5 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Analyse critique de la Charte de développement actuelle, rédaction de l’expression fonctionnelle des besoins.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie </td>
+            <td>Approche Zachman</td>
+        </tr>
+        <tr>
+            <td>Outil</td>
+            <td>System Architect</td>
+        </tr>
+    </tbody>
+</table>
+
+SANOFI PASTEUR - Consultant fonctionnel - Intégration GED « Assurance Qualité » (1 an + suivi ...)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Analyse par écart, Maquettage de l’application. Spécification fonctionnelle de l’application, Tests fonctionnel</td>
+        </tr>
+        <tr>
+            <td>Méthodologie </td>
+            <td>Approche Zachman</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>System Architect</td>
+        </tr>
+        <tr>
+            <td>PLM/GED</td>
+            <td>Advitium</td>
         </tr>
     </tbody>
 </table>
