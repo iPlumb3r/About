@@ -95,6 +95,13 @@ Langues
 * Anglais (Lu, Ecrit, Parlé)
 * Allemand (Notions scolaires) 
 
+Parcours scolaire
+==
+* 1992 : Ingénieur Agro-Alimentaire diplômé de l’ENSBANA (Dijon) - Promotion1992
+(Ecole Nationale Supérieure de Biologie Appliquée à la Nutrition et à l’Alimentation)
+* 1989 : DEUG Science de la Nature et de la Vie
+* 1986 : Baccalauréat  D
+
 Parcours professionel
 ==
 * 05-1993 => 06-1994 : Sucrerie-Distillerie d'Artenay
