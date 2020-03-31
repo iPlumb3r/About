@@ -335,7 +335,27 @@ ROYAL CANIN - Expert métier - Audit SIP (2 mois)
     </tbody>
 </table>
 
-BIOMERIEUX  -Consultant fonctionnel – Etude de cadrage PLM (3 mois)
+BIOMERIEUX - Consultant fonctionnel – Etude de cadrage PLM (3 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Modélisation du méta-modèle du PLM utilisé et chargement des données par reverse-engineering. Mapping avec les fonctionnalités attendues par les métiers. Cartographie des éléments clefs pour l’équipe projet TMA</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>Analyse par écarts, Approche Zachman </td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Protégé</td>
+        </tr>
+    </tbody>
+</table>
+
+GE - Consultant fonctionnel – Etude de cadrage PLM (3 mois)
 -
 <table>
     <thead>
@@ -346,11 +366,35 @@ BIOMERIEUX  -Consultant fonctionnel – Etude de cadrage PLM (3 mois)
         </tr>
         <tr>
             <td>Méthodologie</td>
-            <td>Analyse par écarts, Approche Zachman </td>
+            <td>Analyse par écarts, Approche Zachman</td>
         </tr>
         <tr>
             <td>Outil </td>
-            <td>Protégé</td>
+            <td>Protégé, Longwell, Treebolic</td>
+        </tr>
+         <tr>
+            <td>PLM </td>
+            <td>TeamCenter</td>
+        </tr>
+    </tbody>
+</table>
+
+PANZANI - Expert Métier / Consultant Fonctionnel – Refonte du Processus d’Innovation  (2 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Définition d’un méta-modèle de représentation des Processus conforme à la stratégie préalablement définie. Interview des key users et capture du processus en séance</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>Cartographie Sémantique </td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>: Protégé, yEd</td>
         </tr>
     </tbody>
 </table>
