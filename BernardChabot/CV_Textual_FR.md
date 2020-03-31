@@ -96,8 +96,12 @@ Langues
 * Allemand (Notions scolaires) 
 
 
-Expérience (10 ans R&D en IAA / 20 ans PLM / 15 ans Knowledge Engineering)
+Expérience
 ==
+
+* R&D en IAA : 10 ans
+* PLM : 20 ans
+* Knowledge Engineering : 15 ans
 
 AAD (TEREOS) - Chef de projet - Intégration SIP (3 ans + suivi ...)
 -
