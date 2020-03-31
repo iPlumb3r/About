@@ -71,7 +71,7 @@ Expertise "Technique"
             <td>Protégé, Semantica, Cmap Tools, yEd, ...</td>
         </tr>
         <tr>
-            <td>Gestion des conaissances</td>
+            <td>Gestion des connaissances</td>
             <td>Topic Maps (XTM), RDF(S)-OWL, ...</td>
             <td>Protégé, Topincs, Intelligent Topic Manager, ...</td>
         </tr>
@@ -82,3 +82,42 @@ Expertise "Technique"
         </tr>
     </tbody>
 </table>
+
+Outils PLM
+-
+* Fonctionnel & Technique : Advitium. 
+* Fonctionnel : Audros, Optiva, TeamCenter, Enovia V6, Project Link, PDM Link, Team Center
+
+Langues
+-
+* Français (Langue maternelle)
+* Anglais (Lu, Ecrit, Parlé)
+* Allemand (Notions scolaires) 
+
+
+Expérience (10 ans R&D en IAA / 20 ans PLM / 15 ans Knowledge Engineering)
+
+AAD (TEREOS) - Chef de projet - Intégration SIP (3 ans + suivi ...)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Spécification, conception et implémentation du référentiel produit initial, puis élargissement du périmètre initial (uniquement produit) du SIP à la gestion de l’intégralité des informations issues de ... et consommée par ... le processus de conception  (projet, produit, packaging, procédé)</td>
+        </tr>
+         <tr>
+            <td></td>
+            <td>AMOA sur les diverses évolutions fonctionnelles en cours : refonte de la génération automatique de document à partir des données du référentiel, de la formulation, export XML à destination des portails WEB des distributeurs,  intégration des données techniques fournisseurs dans le SIP, …</td>
+        </tr>
+        <tr>
+            <td>Méthodologie </td>
+            <td>Gestion de projet, Analyse des processus</td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Advitium</td>
+        </tr>
+    </tbody>
+</table>
+==
