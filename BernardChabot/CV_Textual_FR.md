@@ -202,7 +202,7 @@ GALDERMA  - Consultant fonctionnel - Cadrage GED « Affaires Règlementaires » 
             <td>Analyse des processus et des données du système actuel de gestion des documents réglementaires. Proposition d’optimisations relatives au contexte multi-site de production des « e-CTD ». Cadrage support au déploiement du futur système avec en particulier la définition de la hiérarchie primaire commune de GED.</td>
         </tr>
         <tr>
-            <td>Méthodologie </td>
+            <td>Méthodologie</td>
             <td>Modélisation des processus</td>
         </tr>
         <tr>
@@ -222,7 +222,7 @@ DCN  - Consultant fonctionnel - Cartographie SI Technique (3 mois)
             <td>Etat de lieux du SI technique, mise en évidence du niveau de redondance applicatif.</td>
         </tr>
         <tr>
-            <td>Méthodologie </td>
+            <td>Méthodologie</td>
             <td>Cartographie Sémantique (Génération de carte à partir d’un référentiel structuré), Approche Zachman</td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@ BEL  - Expert métier - Etude de cadrage SIP (5 mois)
             <td>Analyse critique de la Charte de développement actuelle, rédaction de l’expression fonctionnelle des besoins.</td>
         </tr>
         <tr>
-            <td>Méthodologie </td>
+            <td>Méthodologie</td>
             <td>Approche Zachman</td>
         </tr>
         <tr>
@@ -266,16 +266,82 @@ SANOFI PASTEUR - Consultant fonctionnel - Intégration GED « Assurance Qualité
             <td>Analyse par écart, Maquettage de l’application. Spécification fonctionnelle de l’application, Tests fonctionnel</td>
         </tr>
         <tr>
-            <td>Méthodologie </td>
+            <td>Méthodologie</td>
             <td>Approche Zachman</td>
         </tr>
         <tr>
-            <td>Outil </td>
+            <td>Outil</td>
             <td>System Architect</td>
         </tr>
         <tr>
             <td>PLM/GED</td>
             <td>Advitium</td>
+        </tr>
+    </tbody>
+</table>
+
+
+SANOFI PASTEUR - Consultant fonctionnel - Intégration GED « Affaires Règlementaires » (1,5 an)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Analyse par écart, Maquettage de l’application. Spécification fonctionnelle de l’application, Tests fonctionnel</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>Approche Zachman</td>
+        </tr>
+        <tr>
+            <td>Outil</td>
+            <td>Protégé</td>
+        </tr>
+        <tr>
+            <td>PLM/GED</td>
+            <td>Advitium</td>
+        </tr>
+    </tbody>
+</table>
+
+
+ROYAL CANIN - Expert métier - Audit SIP (2 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Cartographie applicative et métier de l’existant. Spécification de la structure produit cible. Analyse de cohérence entre les cartographies et la structure produit.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>Cartographie Sémantique, Approche Zachman </td>
+        </tr>
+        <tr>
+            <td>Outil</td>
+            <td>Protégé, yEd, Omnigator</td>
+        </tr>
+    </tbody>
+</table>
+
+BIOMERIEUX  -Consultant fonctionnel – Etude de cadrage PLM (3 mois)
+-
+<table>
+    <thead>
+    <tbody>
+        <tr>
+            <td>Activité</td>
+            <td>Analyse de l’existant (processus, pratique, application), proposition d’une approche cible. Recommandations.</td>
+        </tr>
+        <tr>
+            <td>Méthodologie</td>
+            <td>Analyse par écarts, Approche Zachman </td>
+        </tr>
+        <tr>
+            <td>Outil </td>
+            <td>Protégé</td>
         </tr>
     </tbody>
 </table>
