@@ -20,6 +20,3 @@ Currently an independent consultant, Bernard Chabot, is working mainly on an off
 
 ------
 This #XAI (= "eXplainable Artificial Intelligence") type offer, although primarily intended for industrialists wishing to apply knowledge engineering methods and tools to the PLM field, is highly generic in nature, allowing it to be used in many fields.
-
-
-Translated with www.DeepL.com/Translator (free version)
