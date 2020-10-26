@@ -7,4 +7,15 @@ RINA is a new computer network architecture proposed as an alternative to the ar
 <a href="https://pouzinsociety.org/">Non Official Project Page</a> (Pouzin Society).  
 
 ## About Page
-<a href="https://en.wikipedia.org/wiki/Recursive_Internetwork_Architecture">WikiPedia Entry</a>.  
+<a href="https://en.wikipedia.org/wiki/Recursive_Internetwork_Architecture">WikiPedia Entry</a>.
+
+## Implementations
+> To Be Defined ...
+
+## Deployment
+<a href="https://rinarmenia.com/">RINARMENIA</a> (RINA in Armenia)
+
+
+## Articles (In French)
+<a href="https://www.linkedin.com/pulse/rina-recursive-inter-network-architecture-pour-les-un-urban-galindo/?originalSubdomain=fr">RINA (Recursive Inter Network Architecture) pour les nuls</a> (Jacques-André Fines Schlumberger)
+<a href="https://la-rem.eu/2019/09/rina-un-projet-pour-linternet-de-nouvelle-generation/">RINA, un projet pour l’internet de nouvelle génération</a> (Jacques-André Fines Schlumberger).  
