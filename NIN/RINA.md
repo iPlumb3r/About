@@ -15,11 +15,11 @@ Current :
 <a href="http://people.ccaba.upc.edu/careglio/index.php/eraser-project/">ERASER</a> (OpenIRATI).
 
 Completed : 
-<a href="http://ict-arcfire.eu/">H2020 ARCFIRE</a> (OpenIRATI, rlite).
-<a href="https://distrinet.cs.kuleuven.be/research/projects/RINAiSense">RINAiSense</a> (Ouroboros).
-<a href="http://ict-pristine.eu/">FP7 PRISTINE</a> (OpenIRATI, rlite).
-<a href="http://www.geant.net/opencall/Optical/Pages/IRINA.aspx">G3+ IRINA</a> (OpenIRATI).
-<a href="http://irati.eu/">FP7 IRATI</a> (OpenIRATI).
+<a href="http://ict-arcfire.eu/">H2020 ARCFIRE</a> (OpenIRATI, rlite).  
+<a href="https://distrinet.cs.kuleuven.be/research/projects/RINAiSense">RINAiSense</a> (Ouroboros).  
+<a href="http://ict-pristine.eu/">FP7 PRISTINE</a> (OpenIRATI, rlite).  
+<a href="http://www.geant.net/opencall/Optical/Pages/IRINA.aspx">G3+ IRINA</a> (OpenIRATI).  
+<a href="http://irati.eu/">FP7 IRATI</a> (OpenIRATI).  
 
 ## Implementation(s)
 <a href="https://github.com/IRATI/stack">OpenIRATI</a> (A Open Source RINA implementation for Linux/OS).  
