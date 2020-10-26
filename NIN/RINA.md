@@ -14,7 +14,7 @@ Current :
 <a href="https://www.mn.uio.no/ifi/english/research/projects/ocarina/">OCARINA</a> (OpenIRATI, RINAsim).  
 <a href="http://people.ccaba.upc.edu/careglio/index.php/eraser-project/">ERASER</a> (OpenIRATI).
 
-Completed : 
+Completed :   
 <a href="http://ict-arcfire.eu/">H2020 ARCFIRE</a> (OpenIRATI, rlite).  
 <a href="https://distrinet.cs.kuleuven.be/research/projects/RINAiSense">RINAiSense</a> (Ouroboros).  
 <a href="http://ict-pristine.eu/">FP7 PRISTINE</a> (OpenIRATI, rlite).  
