@@ -2,12 +2,16 @@
 
 RINA is a new computer network architecture proposed as an alternative to the architecture of the currently mainstream TCP/IP approach.
 
-## Home Page
-<a href="http://csr.bu.edu/rina/index.html">Official Project Page</a> (Boston University).  
+## Home Page 
 <a href="https://pouzinsociety.org/">Non Official Project Page</a> (Pouzin Society).  
 
 ## About Page
 <a href="https://en.wikipedia.org/wiki/Recursive_Internetwork_Architecture">WikiPedia Entry</a>.
+
+## Projects
+<a href="http://csr.bu.edu/rina/index.html">BU Research Team</a> (protoRINA).  
+<a href="https://www.mn.uio.no/ifi/english/research/projects/ocarina/">OCARINA</a> (OpenIRATI, RINAsim).  
+<a href="http://people.ccaba.upc.edu/careglio/index.php/eraser-project/">ERASER</a> (OpenIRATI).  
 
 ## Implementation(s)
 <a href="https://github.com/IRATI/stack">OpenIRATI</a> (A Open Source RINA implementation for Linux/OS).  
