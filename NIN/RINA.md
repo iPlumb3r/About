@@ -1,6 +1,6 @@
 # RINA (Recursive Internetwork Architecture)
 
-RINA is a new computer network architecture proposed as an alternative to the architecture of the currently mainstream TCP/IP approach.
+RINA is a new computer network architecture proposed as an alternative to the architecture of the current mainstream TCP/IP approach.
 
 ## Home Page 
 <a href="https://pouzinsociety.org/">Non Official Project Page</a> (Pouzin Society).  
