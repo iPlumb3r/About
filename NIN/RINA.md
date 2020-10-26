@@ -10,8 +10,8 @@ RINA is a new computer network architecture proposed as an alternative to the ar
 <a href="https://en.wikipedia.org/wiki/Recursive_Internetwork_Architecture">WikiPedia Entry</a>.
 
 ## Implementation(s)
-<a href="https://github.com/IRATI/stack">IRATI</a> (A Open Source RINA implementation for Linux/OS)
-<a href=" https://github.com/ProtoRINA/users/wiki">protoRINA</a> (Prototype for programming recursive-networking policies)
+<a href="https://github.com/IRATI/stack">IRATI</a> (A Open Source RINA implementation for Linux/OS).  
+<a href="https://github.com/ProtoRINA/users/wiki">protoRINA</a> (Prototype for programming recursive-networking policies).  
 
 ## Deployment(s)
 <a href="https://rinarmenia.com/">RINARMENIA</a> (RINA in Armenia)
