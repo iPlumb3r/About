@@ -22,6 +22,9 @@ RINA is a new computer network architecture proposed as an alternative to the ar
 ## Technology
 <a href="https://www.etsi.org/technologies/non-ip-networking">Non-IP Networking</a>
 
+## IP Inter-Operability
+<a href="https://www.open-root.eu/">Open-Root</a> : TLD (Top Level Domain) Provider
+
 ## Articles (In French)
 <a href="https://www.linkedin.com/pulse/rina-recursive-inter-network-architecture-pour-les-un-urban-galindo/?originalSubdomain=fr">RINA pour les nuls</a> (Jacques-André Fines Schlumberger)
 <a href="https://la-rem.eu/2019/09/rina-un-projet-pour-linternet-de-nouvelle-generation/">RINA, un projet pour l’internet de nouvelle génération</a> (Jacques-André Fines Schlumberger).  
