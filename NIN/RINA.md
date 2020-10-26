@@ -8,7 +8,7 @@ RINA is a new computer network architecture proposed as an alternative to the ar
 ## About Page
 <a href="https://en.wikipedia.org/wiki/Recursive_Internetwork_Architecture">WikiPedia Entry</a>.
 
-## Projects
+## Project(s)
 Current :    
 <a href="http://csr.bu.edu/rina/index.html">BU Research Team</a> (protoRINA).  
 <a href="https://www.mn.uio.no/ifi/english/research/projects/ocarina/">OCARINA</a> (OpenIRATI, RINAsim).  
