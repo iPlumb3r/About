@@ -9,9 +9,17 @@ RINA is a new computer network architecture proposed as an alternative to the ar
 <a href="https://en.wikipedia.org/wiki/Recursive_Internetwork_Architecture">WikiPedia Entry</a>.
 
 ## Projects
+Current :    
 <a href="http://csr.bu.edu/rina/index.html">BU Research Team</a> (protoRINA).  
 <a href="https://www.mn.uio.no/ifi/english/research/projects/ocarina/">OCARINA</a> (OpenIRATI, RINAsim).  
-<a href="http://people.ccaba.upc.edu/careglio/index.php/eraser-project/">ERASER</a> (OpenIRATI).  
+<a href="http://people.ccaba.upc.edu/careglio/index.php/eraser-project/">ERASER</a> (OpenIRATI).
+
+Completed : 
+<a href="http://ict-arcfire.eu/">H2020 ARCFIRE</a> (OpenIRATI, rlite).
+<a href="https://distrinet.cs.kuleuven.be/research/projects/RINAiSense">RINAiSense</a> (Ouroboros).
+<a href="http://ict-pristine.eu/">FP7 PRISTINE</a> (OpenIRATI, rlite).
+<a href="http://www.geant.net/opencall/Optical/Pages/IRINA.aspx">G3+ IRINA</a> (OpenIRATI).
+<a href="http://irati.eu/">FP7 IRATI</a> (OpenIRATI).
 
 ## Implementation(s)
 <a href="https://github.com/IRATI/stack">OpenIRATI</a> (A Open Source RINA implementation for Linux/OS).  
