@@ -16,10 +16,11 @@ RINA is a new computer network architecture proposed as an alternative to the ar
 <a href="https://github.com/vmaffione/rlite">rlite</a> (A RINA ligth implementation).  
 <a href="https://ouroboros.rocks/">Ouroboros</a> (A RINA like implementation).  
 
-
 ## Deployment(s)
 <a href="https://rinarmenia.com/">RINARMENIA</a> (RINA in Armenia)
 
+## Technology
+<a href="https://www.etsi.org/technologies/non-ip-networking">Non-IP Networking</a>
 
 ## Articles (In French)
 <a href="https://www.linkedin.com/pulse/rina-recursive-inter-network-architecture-pour-les-un-urban-galindo/?originalSubdomain=fr">RINA pour les nuls</a> (Jacques-André Fines Schlumberger)
