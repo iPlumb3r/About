@@ -24,11 +24,12 @@ avec l'organisation en question.
 
 > Tous cela pour faire en sorte que la gestion des mots de passe nous simplifie la vie au lieu de nous la compliquer ...
 
-2. __Parce que les mots passe doivent être FORT (Majuscules, Minuscules, Chiffres et Symboles)__
-> Les attaques les plus fréquente sont basé soit sur l'utilisation de dictionaires, soit sur l'utilisation de technique de "brute-force" qui consiste à essayer des combinaison aléatoire de mot. Il va sans dique que les mot de passe fabrique à partir de prénom des enfant et des date de naissant "à l'envers" sont extrèmement vulnérable.
+2. __Parce que les mots passe doivent être FORT
+> Les attaques les plus fréquente sont basé soit sur l'utilisation de dictionaires, soit sur l'utilisation de technique de "brute-force" qui consiste à essayer des combinaison aléatoire de mot. Il va sans dique que les mot de passe fabrique à partir de prénom des enfant et des date de naissant "à l'envers" sont extrèmement vulnérable.   
+ => A proscrire donc !!!  
 
-> => A proscrire donc !!!    
-Il est crucial de disposer de mot de passe à la fois LONG et HETEROGENE
+ > Il est crucial de disposer de mot de passe à la fois LONG et HETEROGENE.  
+ => Ce qui implique un mélange de Majuscules, Minuscule, Chiffres et Symbôles (= Caractères "Spéciaux") !
 
 3. __Parce que les mot de passe doivent être UNIQUES___
 > De nombreux sites web, et en particulier les sites qui gère de l'argent ou qui pemettent de faire des achats font l'objet d'attaques ciblé permanente, mais ce ne sont pas les seul ...    
