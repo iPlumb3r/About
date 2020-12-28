@@ -8,7 +8,7 @@ Pouvoir gérer la __TOTALITE__ de ses mots de passe _"compliqués"_ ...
 
 ### Pourquoi ?
 1. __Parce qu'il y a maintenant trop de mots de passe à se souvenir__
-> Car la moindre relation avec une organisation, que se soit une société ou association, 
+> Car la moindre relation avec une organisation, que se soit une société ou une association, 
 un client, un fournisseur, un partenaire, une banque, une assurance, une coopérative, une mutuelle, ...   
 ... ou encore un simple site de commerce en ligne sur Internet vous ne maquerais pas de devoir 
 créer un "compte" pour pouvoir accéder à votre "espace personnel" pour gérer votre relation
