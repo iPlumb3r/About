@@ -49,11 +49,13 @@ Cette section est relatives aux différents types d'informations que votre gesti
 
 ### Informations Clefs
 Il s'agit des informations absoluement nécessaires pour pouvoir gérer vos mots de passe !   
-> Elles sont au nombre de 4 :
-- "Titre" (Label) 
-- "Adresse du Site" (Web Site)
--  "Nom d'Utilisateur" (Username)
--  "Mot de Passe" (Password)
+> Elles sont au nombre de 4
+
+Il s'agit de :
+- Le __Titre__ (Label) => Une chaîne de caratère
+- L'__Adresse du Site__ (Web Site) => Une URL (Unified Resource Locator)
+- Le __Nom d'Utilisateur__ (Username) => Une chaîne de caratère
+- Le __Mot de Passe__ (Password) => Une chaîne de caratère
 
 ### Informations Complémentaires
 
