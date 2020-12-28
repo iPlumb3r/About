@@ -45,7 +45,20 @@ A. Installer un gestionnaire de mot de passe votre l'ordinateur
 B. Installer le plusgin correspondant dans votre navigateur préféré (Safari, Firefox, Brave, ...)  
 
 ## Réponses
-Bla bla ...
+Cette section est relatives aux différents types d'informations que votre gestionnaire de mot de passe à besoin pour être vraiement efficasse ...
+
+### Informations Clefs
+Il s'agit des informations absoluement nécessaires pour pouvoir gérer vos mots de passe !   
+> Elles sont au nombre de 4 :
+- "Titre" (Label) 
+- "Adresse du Site" (Web Site)
+-  "Nom d'Utilisateur" (Username)
+-  "Mot de Passe" (Password)
+
+### Informations Complémentaires
+
+
+### Informations de Gestions
 
 ## Périmètre
 Bla bla ...
