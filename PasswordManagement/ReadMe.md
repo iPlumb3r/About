@@ -95,7 +95,7 @@ De mannière plus détaillé il s'agit de :
 Les informations complémentaires peuvent être diversse et variées ...   
 ... mais traditionellement ont retrouve les informations suivantes :
 - Question(s) Secrête(s) : 1 (ou plusieurs) question(s) permettant de re-initialiser le mot de passe en cas de perte
-- Réponses(s) Secrête(s) : Réponse(s) associé(s) à la (aux) question(s)
+- Réponse(s) Secrête(s) : Réponse(s) associée(s) à la (aux) question(s)
 - TOTP (Time-based One-Time) : Code à usage unique permettant de se connecter au compte Internet (Surtout utilisé par les site web en lien avec la gestion d'argent)
 
 ### Informations de Gestions
