@@ -7,7 +7,7 @@ Pouvoir gérer la __TOTALITE__ de ses mots de passe _"compliqués"_ ...
 ... en n'ayant à retenir qu'un __UNIQUE__ mot de passe _"simple"_ !
 
 ### Pourquoi ?
-1. __Parce qu'il y a maintenant trop de mots de passe à se souvenir__
+1. __Parce qu'il y a maintenant vraiment TROP de mots de passe à se souvenir__
 > Car la moindre relation avec une organisation, que se soit une société ou une association, 
 un client, un fournisseur, un partenaire, une banque, une assurance, une coopérative, une mutuelle, ...   
 ... ou encore un simple site de commerce en ligne sur Internet vous ne manquerais pas de devoir 
@@ -24,14 +24,14 @@ avec l'organisation en question.
 
 > Tous cela pour faire en sorte que la gestion des mots de passe nous simplifie la vie au lieu de nous la compliquer ...
 
-2. __Parce que les mots passe doivent être FORT
+2. __Parce que les mots passe doivent être FORT__
 > Les attaques les plus fréquente sont basé soit sur l'utilisation de dictionaires, soit sur l'utilisation de technique de "brute-force" qui consiste à essayer des combinaison aléatoire de mot. Il va sans dique que les mot de passe fabrique à partir de prénom des enfant et des date de naissant "à l'envers" sont extrèmement vulnérable.   
  => A proscrire donc !!!  
 
  > Il est crucial de disposer de mot de passe à la fois LONG et HETEROGENE.  
  => Ce qui implique un mélange de Majuscules, Minuscule, Chiffres et Symbôles (= Caractères "Spéciaux") !
 
-3. __Parce que les mot de passe doivent être UNIQUES__
+3. __Parce que les mots de passe doivent être UNIQUES__
 > De nombreux sites web, et en particulier les sites qui gère de l'argent ou qui pemettent de faire des achats font l'objet d'attaques ciblé permanente, mais ce ne sont pas les seul ...    
 `... en effet, les pirates informatiques essaye aussi d'attaquer des sites "à priori peu sensible" uniquement dans le but de récupérer des données personnelles d'utilisateur qui seront ensuite revendu à bon prix sur le dark net à d'autre pirate qui eessayerons à leur tout d'utiliser les informations récupérer et les tester sur des sites plus critiques.   
 
