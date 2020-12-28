@@ -70,23 +70,23 @@ De mannière plus détaillé il s'agit de :
     <tbody>
         <tr>
             <td>Titre</td>
-            <td></td>
-            <td></td>
+            <td>Brève description du compte Internet concerné.</td>
+            <td>Il s'agit d'une simple chaîne de caractères qui permet de retrouver la "fiche" relative à ce compte Internet dans le gestionnaire de mots de passe.</td>
         </tr>
         <tr>
             <td>Adresse du Site</td>
-            <td></td>
-            <td></td>
+            <td>Equivalent d'une adresse postale, mais pour le "cyber-espace".</td>
+            <td>Il s'agit d'une "URL" (= Unified Resource Locator).</td>
         </tr>
         <tr>
             <td>Nom d'Utilisateur</td>
-            <td></td>
-            <td></td>
+            <td>C'est généralement une adresse e-mail, mais ce peut-être un n° de téléphone ou bien un n° de Sécu, ou tout autre chose ...</td>
+            <td>Il s'agit d'une simple chaîne de caractères alpha-numérique ou numérique.</td>
         </tr>
         <tr>
             <td>Mot de Passe</td>
-            <td></td>
-            <td></td>
+            <td>Mot "secret" associé à au nom d'utilisateur qui permet d'accéder au compte Internet concerné.</td>
+            <td>Il s'agit d'une chaîne de caractères qui idéalement mélange majuscules, minuscules, chiffres et symboles.</td>
         </tr>
     </tbody>
 </table>
