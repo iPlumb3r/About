@@ -19,8 +19,8 @@ avec l'organisation en question.
 ... ou plus encore selon l'intensité de votre activité "Internet"
 
 > NB : Il y fort a parier, que le jour viendra où cette "mécanique diabolique" sera inversée ...   
-(se sera alors aux différentes organisations avec qui vous êtes en relation qui devront avoir "compte" chez vous).  
-... mais ce jour n'est pas encore arrivé et pour l'heure il faut bien s'adapter à la situation actuelle si absurde qu'elle soit !!!
+(se sera alors aux différentes organisations avec qui vous êtes en relation qui devront avoir "compte" chez vous)   
+... mais ce jour n'est pas encore arrivé et pour l'heure il faut bien s'adapter à la situation actuelle si absurde soit-elle !!!
 
 > Tous cela pour faire en sorte que la gestion des mots de passe nous simplifie la vie au lieu de nous la compliquer ...
 
