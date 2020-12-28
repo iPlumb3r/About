@@ -159,7 +159,7 @@ Les cas "dégradés" les plus fréquents sont :
 Les applications suivantes sont vivement recommandés : 
 - 1Password (Mac) : https://1password.com/ 
 > Très convivial
-- Enpasse (Mac, Windows, Linux) : https://www.enpass.io/
+- Enpass (Mac, Windows, Linux) : https://www.enpass.io/
 > Nombreuses plateformes : Ordinateur et Smartphone   
 > Nombreux modes de synchronication   
 > Générateur de mots de passe avec de nombreuses "recettes"   
