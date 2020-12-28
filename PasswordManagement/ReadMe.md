@@ -98,7 +98,7 @@ Les informations complémentaires peuvent être diversse et variées ...
 - Réponse(s) Secrête(s) : Réponse(s) associée(s) à la (aux) question(s)
 - TOTP (Time-based One-Time) : Code à usage unique permettant de se connecter au compte Internet (Surtout utilisé par les site web en lien avec la gestion d'argent)
 
-### Informations de Gestions
+### Informations de Gestion
 
 ## Périmètre
 Bla bla ...
