@@ -121,23 +121,46 @@ En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'i
 
 ## Fonctionnement
 Pour profiter au maximum du support d'un gestionnaire de mots de passe, il convient de systématiser l'enregistrement de chaque mot de passe dans cette "base de données" ...    
-... et d'accepter au passager de renoner à mémoriser le moindre mot de passe, ...   
+... et d'accepter au passager de renoncer à mémoriser le moindre mot de passe, ...   
 ... à l'exception de ceux qui ne peuvent pas être rempli automatiquement pas ce gestionaire.
 
-> C'est à priori uiquement le cas :   
+> C'est à priori uniquement le cas :   
 - des mot de passe "numérique" utilisé par les banques (car leur saisie ne peut se fire que via un "clavier virtuel numérique"
 - de l'ID Apple qui sert à la fois pour l'Apple Store (Achats de musique, libre audio, applications, ...) et iCloud (Synchronicaiton de fichiers)
 
-### Mode normal
+### Mode "Nominal"
 
 __Mode "Tiré"__
-Bla bla ...
+Ce mode consiste à préalablement se positioner avec son navigateur Internet préféré sur l'URL son espace personnel ...   
+
+A ce point il est alors possible d'appeller le gestionnaire de mot passe via le bouton de son navigateur pour automatiquement :
+- compléter le champ "Nom d'Utilisateur"
+- compléter le champ "Mot de Passe"
+- appuyer sur le bouton "Se Connecter / Login"
+
+Et finalement se retrouver connecter à son "espace personnel" !
 
 __Mode "Poussé"__
-Bla bla ...
+Ce mode consiste à contrario à rechercher l'espace paronnel auquel on souhaite se connecter dans le gestionairre de mot de passe ...
 
-### Mode dégradé
-Bla bla ...
+Une fois la bonne "fiche" trouvé, il suffit généralement de cliquer (ou double-cliquer en fonction des des gestionnaires) sur l'URL pour enclancher un processus de connection similaire au mode "Tiré"
+
+### Mode "Dégradé"
+Dans certain cas de figure, les choses ne se passe pas comme décrit dans le mode "Nominal" 
+> En effet, tous les site Internet ne respectent pas les _bonnes pratiques_ de connections ...
+... et il est alors nécessaire de s'adapter au contexte particulier de la situation.
+
+Les cas "dégradés" les plus fréquents sont :
+- L'invite de connection ne s'affiche pas dans la fenêtre principale, mais dans une fenètre "pop-up"
+- La connection s'effectue en 2 étapes
+- Le nom d'utilisateur et ou le mot de passe est un nombre et il doit être saisisi via un clavier numérique virtuel
 
 ## Application(s)
-Bla bla ...
+Les applications suivantes sont vivement recommandés : 
+- 1Password (Mac) : https://1password.com/ 
+> Très convivial
+- Enpasse (Mac, Windows, Linux) : https://www.enpass.io/
+> Nombreuses plateformes : Ordinateur et Smartphone 
+> Nombreux modes de synchronication 
+> Générateur de mots de passe avec de nombreuses "recettes" 
+> Intégration du TOTP 
