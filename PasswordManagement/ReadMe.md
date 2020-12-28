@@ -120,6 +120,13 @@ En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'i
 - Etc ...
 
 ## Fonctionnement
+Pour profiter au maximum du support d'un gestionnaire de mots de passe, il convient de systématiser l'enregistrement de chaque mot de passe dans cette "base de données" ...    
+... et d'accepter au passager de renoner à mémoriser le moindre mot de passe, ...   
+... à l'exception de ceux qui ne peuvent pas être rempli automatiquement pas ce gestionaire.
+
+> C'est à priori uiquement le cas :   
+- des mot de passe "numérique" utilisé par les banques (car leur saisie ne peut se fire que via un "clavier virtuel numérique"
+- de l'ID Apple qui sert à la fois pour l'Apple Store (Achats de musique, libre audio, applications, ...) et iCloud (Synchronicaiton de fichiers)
 
 ### Mode normal
 
