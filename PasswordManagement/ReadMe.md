@@ -51,11 +51,45 @@ Cette section est relatives aux différents types d'informations que votre gesti
 Il s'agit des informations absoluement nécessaires pour pouvoir gérer vos mots de passe !   
 > Elles sont au nombre de 4
 
-Il s'agit de :
-- Le __Titre__ (Label) => Une chaîne de caratère
-- L'__Adresse du Site__ (Web Site) => Une URL (Unified Resource Locator)
-- Le __Nom d'Utilisateur__ (Username) => Une chaîne de caratère
-- Le __Mot de Passe__ (Password) => Une chaîne de caratère
+En bref, il s'agit de :
+- Le __Titre__ (Label) 
+- L'__Adresse du Site__ (Web Site) 
+- Le __Nom d'Utilisateur__ (Username)
+- Le __Mot de Passe__ (Password)
+
+De mannière plus détaillé il s'agit de :
+
+<table>
+    <thead>
+        <tr>
+            <th>Information</th>
+            <th>Description</th>
+            <th>Commentaires</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Titre</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Adresse du Site</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Nom d'Utilisateur</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mot de Passe</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Informations Complémentaires
 
