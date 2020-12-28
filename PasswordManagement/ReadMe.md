@@ -14,7 +14,7 @@ un client, un fournisseur, un partenaire, une banque, une assurance, une coopér
 créer un "compte" pour pouvoir accéder à votre "espace personnel" pour gérer votre relation
 avec l'organisation en question 
 
-> Et le compteur grimpe vite, très vite, ...
+> Et le compteur grimpe vite, très vite !   
 => Il n'est pas rare en effet de devoir gérer 20, 30, et voire 50 mots de passe ...   
 ... ou plus encore selon l'intensité de votre activité "Internet"
 
