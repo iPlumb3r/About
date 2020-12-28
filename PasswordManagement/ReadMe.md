@@ -29,7 +29,7 @@ avec l'organisation en question.
  => A proscrire donc !!!  
 
  > C'est pourquoi il est crucial de disposer de mots de passe FORTS, c'est à dire à la fois LONGS et HETEROGENES.  
- => Ce qui implique un mélange de Majuscules, Minuscule, Chiffres et Symbôles (= Caractères "Spéciaux") !
+ => Ce qui implique un mélange de Majuscules, Minuscules, Chiffres et Symbôles (= Caractères "Spéciaux") !
 
 3. __Parce que les mots de passe doivent être UNIQUES__
 > De nombreux sites web, et en particulier les sites qui gère de l'argent ou qui pemettent de faire des achats font l'objet d'attaques ciblées permanentes, mais ce ne sont pas les seuls ...    
