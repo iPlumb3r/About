@@ -1,6 +1,14 @@
 # Gestion des mots de passe
 
 ## Questions
+
+### Quoi ?
+Bla bla ...
+
+### Pourquoi ?
+Bla bla ...
+
+### Comment ?
 Bla bla ...
 
 ## Réponses
