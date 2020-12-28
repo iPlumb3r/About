@@ -28,7 +28,7 @@ avec l'organisation en question.
 > Les attaques les plus fréquentes sont basées soit sur l'utilisation de dictionaires, soit sur l'utilisation de technique de "brute-force" qui consiste à essayer de nombreuses combinaisons aléatoire de mot à chaque seconde. Il va sans dire que les mots de passe fabriqués à partir des prénoms des enfants et de leurs dates de naissance (même "à l'envers" ;-) sont extrèmement vulnérables.   
  => A proscrire donc !!!  
 
- > Il est crucial de disposer de mot de passe à la fois LONG et HETEROGENE.  
+ > C'est pourquoi il est crucial de disposer de mot de passe à la fois LONG et HETEROGENE.  
  => Ce qui implique un mélange de Majuscules, Minuscule, Chiffres et Symbôles (= Caractères "Spéciaux") !
 
 3. __Parce que les mots de passe doivent être UNIQUES__
