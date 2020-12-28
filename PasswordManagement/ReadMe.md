@@ -32,10 +32,10 @@ avec l'organisation en question.
  => Ce qui implique un mélange de Majuscules, Minuscule, Chiffres et Symbôles (= Caractères "Spéciaux") !
 
 3. __Parce que les mots de passe doivent être UNIQUES__
-> De nombreux sites web, et en particulier les sites qui gère de l'argent ou qui pemettent de faire des achats font l'objet d'attaques ciblé permanente, mais ce ne sont pas les seul ...    
-`... en effet, les pirates informatiques essaye aussi d'attaquer des sites "à priori peu sensible" uniquement dans le but de récupérer des données personnelles d'utilisateur qui seront ensuite revendu à bon prix sur le dark net à d'autre pirate qui eessayerons à leur tout d'utiliser les informations récupérer et les tester sur des sites plus critiques.   
+> De nombreux sites web, et en particulier les sites qui gère de l'argent ou qui pemettent de faire des achats font l'objet d'attaques ciblées permanentes, mais ce ne sont pas les seuls ...    
+... en effet, les pirates informatiques essayent aussi d'attaquer des sites "à priori peu sensibles" uniquement dans le but de récupérer des données personnelles d'utilisateurs qui seront ensuite revendus à bon prix sur le "dark net" à d'autres pirates qui eessayerons à leur tour d'utiliser les informations récupérées et de les tester sur des sites plus critiques.   
 
-> C'est pourquoi il est crucial de ne pas réutiliser 2 fois le même mot de passe pour des compte "en ligne"
+> C'est pourquoi il est crucial de ne __PAS__ réutiliser 2 fois le même mot de passe pour ses comptes "en ligne"
 
 
 ### Comment ?
