@@ -25,7 +25,7 @@ avec l'organisation en question.
 > Tous cela pour faire en sorte que la gestion des mots de passe nous simplifie la vie au lieu de nous la compliquer ...
 
 2. __Parce que les mots passe doivent être FORT__
-> Les attaques les plus fréquentes sont basées soit sur l'utilisation de dictionaires, soit sur l'utilisation de technique de "brute-force" qui consiste à essayer de nombreuses combinaisons aléatoire de mot à chaque seconde. Il va sans dire que les mots de passe fabriqués à partir des prénoms des enfants et de leurs dates de naissance (même "à l'envers" ;-) sont extrèmement vulnérable.   
+> Les attaques les plus fréquentes sont basées soit sur l'utilisation de dictionaires, soit sur l'utilisation de technique de "brute-force" qui consiste à essayer de nombreuses combinaisons aléatoire de mot à chaque seconde. Il va sans dire que les mots de passe fabriqués à partir des prénoms des enfants et de leurs dates de naissance (même "à l'envers" ;-) sont extrèmement vulnérables.   
  => A proscrire donc !!!  
 
  > Il est crucial de disposer de mot de passe à la fois LONG et HETEROGENE.  
