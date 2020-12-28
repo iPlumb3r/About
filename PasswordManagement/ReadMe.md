@@ -120,8 +120,15 @@ En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'i
 - Etc ...
 
 ## Fonctionnement
+
 ### Mode normal
+
+__Mode "Tiré"__
 Bla bla ...
+
+__Mode "Poussé"__
+Bla bla ...
+
 ### Mode dégradé
 Bla bla ...
 
