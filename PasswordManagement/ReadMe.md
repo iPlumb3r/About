@@ -92,13 +92,22 @@ De mannière plus détaillé il s'agit de :
 </table>
 
 ### Informations Complémentaires
-Les informations complémentaires peuvent être diversse et variées ...   
+Les informations complémentaires peuvent être diverses et variées ...   
 ... mais traditionellement ont retrouve les informations suivantes :
 - Question(s) Secrête(s) : 1 (ou plusieurs) question(s) permettant de re-initialiser le mot de passe en cas de perte
 - Réponse(s) Secrête(s) : Réponse(s) associée(s) à la (aux) question(s)
 - TOTP (Time-based One-Time) : Code à usage unique permettant de se connecter au compte Internet (Surtout utilisé par les site web en lien avec la gestion d'argent)
 
 ### Informations de Gestion
+Les informations de gestion ne sont pas directement utile pour faire fonctionner le gestionnaire de mots de passe ...   
+... mais elle peuvent servir pour organiser les différentes "fiches" (surtout lorsqu'il y en a beaucoup) !   
+- Adresse e-mail associée : lorque le nom d'utilisateur n'est pas un e-mail, il peut être intéressant de noter l'adresse e-mail asssocié à ce compte Internet
+- Catégorie : Permet de catégorisé les différentes fiches du gestionaire de mot de passe (généralement unique).
+- Etiquette (Tag) : Permet de classifier les différentes fiches du gestionaire de mot de passe. (généralement multiple)/
+
+### Illustration
+Synthèse des différent types d'informations manipulé par un gestionnaire de mots de passe ...
+![synthèse](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_Informations.png)
 
 ## Périmètre
 Bla bla ...
