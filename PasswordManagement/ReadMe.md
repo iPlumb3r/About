@@ -24,7 +24,7 @@ avec l'organisation en question.
 
 > Tous cela pour faire en sorte que la gestion des mots de passe nous simplifie la vie au lieu de nous la compliquer ...
 
-2. __Parce que les mots passe doivent être FORT (Lettres Majuscules, Lettres Minuscules, Chiffres et Symboles)__
+2. __Parce que les mots passe doivent être FORT (Majuscules, Minuscules, Chiffres et Symboles)__
 > Les attaques les plus fréquente sont basé soit sur l'utilisation de dictionaires, soit sur l'utilisation de technique de "brute-force" qui consiste à essayer des combinaison aléatoire de mot. Il va sans dique que les mot de passe fabrique à partir de prénom des enfant et des date de naissant "à l'envers" sont extrèmement vulnérable.
 
 > => A proscrire donc !!!    
