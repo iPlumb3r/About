@@ -39,7 +39,10 @@ avec l'organisation en question.
 
 
 ### Comment ?
-Bla bla ...
+A. Installer un gestionnaire de mot de passe votre l'ordinateur   
+> (Optionellement : Installer ce même gestionnaire de mot de passe votre smartphone)  
+
+B. Installer le plusgin correspondant dans votre navigateur préféré (Safari, Firefox, Brave, ...)  
 
 ## Réponses
 Bla bla ...
