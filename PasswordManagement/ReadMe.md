@@ -20,7 +20,7 @@ avec l'organisation en question
 
 > NB : Il y fort a parier, que le jour viendra où cette "mécanique diabolique" sera inversée ...
 (se sera alors aux différentes organisations avec qui vous êtes en relation qui devront avoir "compte" chez vous)
-... mais ce jour n'est pas encore arrivé et pour l'heur il faut bien s'adapter à la situation actuelle si absurde qu'elle soit !!!
+... mais ce jour n'est pas encore arrivé et pour l'heure il faut bien s'adapter à la situation actuelle si absurde qu'elle soit !!!
 
 > Tous cela pour faire en sorte que la gestion des mots de passe nous simplifie la vie au lieu de nous la compliquer ...
 
