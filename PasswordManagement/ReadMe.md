@@ -39,14 +39,6 @@ avec l'organisation en question.
 > C'est pourquoi il est crucial de ne __PAS__ réutiliser 2 fois le même mot de passe pour ses comptes "en ligne"
 
 
-### Comment ?
-A. Installer un gestionnaire de mot de passe votre l'ordinateur       
-> Optionellement : Installer ce même gestionnaire de mot de passe votre smartphone.  
-
-B. Installer le(s) plug-in(s) correspondant(s) dans votre(vos) navigateur(s) préféré(s) :    
-> Safari, Firefox, Chrome, Brave, ...    
-
-
 ## Quel périmètre ?
 En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'indique - l'ensemble des mots de passe des comptes Internet (qui nous permettent d'avoir accès aux "espaces personnels" des différentes organisations avec lesquelles nous sommes en contact) ...   
 ... mais en __pratique__ ils peuvent gérer de nombreux autres types d'information, comme par exemple : 
@@ -164,6 +156,13 @@ Les cas "dégradés" les plus fréquents sont :
 - L'invite de connection ne s'affiche pas dans la fenêtre principale, mais dans une fenètre "pop-up"
 - La connection s'effectue en 2 étapes
 - Le nom d'utilisateur et ou le mot de passe est un nombre et il doit être saisisi via un clavier numérique virtuel
+
+### Comment ?
+A. Installer un gestionnaire de mot de passe votre l'ordinateur       
+> Optionellement : Installer ce même gestionnaire de mot de passe votre smartphone.  
+
+B. Installer le(s) plug-in(s) correspondant(s) dans votre(vos) navigateur(s) préféré(s) :    
+> Safari, Firefox, Chrome, Brave, ...    
 
 ## Application(s)
 Les applications suivantes sont vivement recommandés : 
