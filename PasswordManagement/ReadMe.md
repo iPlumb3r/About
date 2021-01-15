@@ -115,11 +115,11 @@ Les informations de gestion ne sont pas directement utile pour faire fonctionner
 - Etiquette (Tag) : Permet de classifier les différentes fiches du gestionaire de mot de passe. (généralement multiple)/
 
 ### Illustration
-Synthèse des différent types d'informations manipulé par un gestionnaire de mots de passe ...   
+Synthèse des différent types d'informations manipulés par un gestionnaire de mots de passe ...   
 ![synthèse](https://github.com/iPlumb3r/About/blob/master/images/PasswordManager_InfoTypes.jpg)
 
 ## Périmètre
-En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'indique - l'ensemble des mots de passe des comptes Internet (qui vous permettent d'avoir accès aux "espaces personnels" des organisations avec lesquelles vous êtes en contact) ...   
+En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'indique - l'ensemble des mots de passe des comptes Internet (qui vous permettent d'avoir accès aux "espaces personnels" des différentes organisations avec lesquelles nous sommes en contact) ...   
 ... mais en __pratique__ ils peuvent gérer de nombreux autres types d'information, comme par exemple : 
 - Les mots de passe et codes de vos différents ordinateurs et smartphones (PIN, PUK, ICCID, ...)
 - Les informations de vos cartes de crédits (vous permettant ainsi de remplir automatiquement les formulaires de payement des site de commerces en ligne)
