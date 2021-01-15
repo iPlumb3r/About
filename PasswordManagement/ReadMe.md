@@ -45,7 +45,12 @@ A. Installer un gestionnaire de mot de passe votre l'ordinateur
 B. Installer le plusgin correspondant dans votre navigateur préféré (Safari, Firefox, Brave, ...)  
 
 ## Réponses
-Cette section est relatives aux différents types d'informations que votre gestionnaire de mot de passe à besoin pour être vraiement efficasse ...
+Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
+Il s'agit des types suivants : 
+* Information Clefs : Obligatoires, elles représentent le "minimum syndical" d'une fiche de connection
+* Information de Session : Optionelles, elles permettent de satisfaire au mécanime d'authentification unique imposé par certains sites
+* Information de Récupération : Optionelles, elles sont les informations devant être fournies en cas de perte du mot de passe 
+* Information de Gestion : Optionelles, elles incarnent les données potentiellement associées à un espace personnel (e-mail, n° de tel, ...)
 
 ### Informations Clefs
 Il s'agit des informations absoluement nécessaires pour pouvoir gérer vos mots de passe !   
