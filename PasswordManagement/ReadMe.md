@@ -1,4 +1,5 @@
-# Gestion des mots de passe
+# Gestion des mots de passe ...
+# ... avec un gestionnaire de mots de passe
 
 ## Questions
 
