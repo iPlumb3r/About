@@ -50,6 +50,7 @@ En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'i
 - Les licences logicielles 
 - Etc ...
 
+![Scope](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_Scope.jpg)
 
 ## Quels types d'information ?
 Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
@@ -119,7 +120,7 @@ Les informations de gestion ne sont pas directement utile pour faire fonctionner
 
 ### Illustration
 Synthèse des différent types d'informations manipulés par un gestionnaire de mots de passe ...   
-![synthèse](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_Info.jpg)
+![Info](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_Info.jpg)
 
 
 ## Fonctionnement
