@@ -39,10 +39,11 @@ avec l'organisation en question.
 
 
 ### Comment ?
-A. Installer un gestionnaire de mot de passe votre l'ordinateur   
-> (Optionellement : Installer ce même gestionnaire de mot de passe votre smartphone)  
+A. Installer un gestionnaire de mot de passe votre l'ordinateur       
+> Optionellement : Installer ce même gestionnaire de mot de passe votre smartphone.  
 
-B. Installer le plusgin correspondant dans votre navigateur préféré (Safari, Firefox, Brave, ...)  
+B. Installer le(s) plug-in(s) correspondant(s) dans votre(vos) navigateur(s) préféré(s) :    
+> Safari, Firefox, Chrome, Brave, ...    
 
 ## Réponses
 Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
