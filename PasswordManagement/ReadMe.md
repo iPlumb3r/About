@@ -50,7 +50,7 @@ En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'i
 - Les licences logicielles 
 - Etc ...
 
-![Scope](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_Scope.jpg)
+![Scope](https://github.com/iPlumb3r/About/blob/master/images/PasswordManager_Scope.jpg)
 
 ## Quels types d'information ?
 Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
