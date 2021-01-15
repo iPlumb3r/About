@@ -49,16 +49,13 @@ B. Installer le(s) plug-in(s) correspondant(s) dans votre(vos) navigateur(s) pr�
 ## Réponses
 Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
 Il s'agit des types suivants : 
-* __Information Clefs__ : Obligatoires, elles représentent le "minimum syndical" d'une fiche de connection
-* __Information de Session__ : Optionelles, elles permettent de satisfaire au mécanisme d'authentification "à double facteur" imposé par certains sites
-* __Information de Récupération__ : Optionelles, ce sont les informations devant être fournies en cas de perte du mot de passe pour en générer un nouveau
-* __Information de Gestion__ : Optionelles, elles incarnent les données potentiellement associées à un espace personnel (e-mail, n° de tel, ...)
+* __Informations Clefs__ : Obligatoires, elles représentent le "minimum syndical" d'une fiche de connection
+* __Informations de Session__ : Optionelles, elles permettent de satisfaire au mécanisme d'authentification "à double facteur" imposé par certains sites
+* __Informations de Récupération__ : Optionelles, ce sont les informations devant être fournies en cas de perte du mot de passe pour en générer un nouveau
+* __Informations de Gestion__ : Optionelles, elles incarnent les données potentiellement associées à un espace personnel (e-mail, n° de tel, ...)
 
-### Informations Clefs
-Il s'agit des informations absoluement nécessaires pour pouvoir gérer nos mots de passe !   
-> Elles sont au nombre de 4
-
-En bref, il s'agit de :
+### Informations Clefs 
+Elles sont au nombre de 4 :   
 - Le __Titre__ (Label) 
 - L'__URL de Connection__ (WebSite) 
 - Le __Nom d'Utilisateur__ (UserName)
