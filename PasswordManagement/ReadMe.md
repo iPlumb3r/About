@@ -5,7 +5,7 @@
 
 ### Quoi ?
 Pouvoir gérer la __TOTALITE__ de ses mots de passe _"compliqués"_ ...   
-... en n'ayant à retenir qu'un __UNIQUE__ mot de passe _"simple"_ !
+... en n'ayant à ne retenir qu'un __UNIQUE__ mot de passe _"simple"_ !
 
 ### Pourquoi ?
 1. __Parce qu'il y a maintenant vraiment TROP de mots de passe à se souvenir__
