@@ -1,7 +1,7 @@
 # Gestion des mots de passe ...
 # ... avec un gestionnaire de mots de passe
 
-## Questions
+## Questions / Réponses
 
 ### Quoi ?
 Pouvoir gérer la __TOTALITE__ de ses mots de passe _"compliqués"_ ...   
@@ -46,7 +46,7 @@ A. Installer un gestionnaire de mot de passe votre l'ordinateur
 B. Installer le(s) plug-in(s) correspondant(s) dans votre(vos) navigateur(s) préféré(s) :    
 > Safari, Firefox, Chrome, Brave, ...    
 
-## Réponses
+## Quels types d'information ?
 Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
 Il s'agit des types suivants : 
 * __Informations Clefs__ : Obligatoires, elles représentent le "minimum syndical" d'une fiche de connection
@@ -116,7 +116,7 @@ Les informations de gestion ne sont pas directement utile pour faire fonctionner
 Synthèse des différent types d'informations manipulés par un gestionnaire de mots de passe ...   
 ![synthèse](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_Info.jpg)
 
-## Périmètre
+## Quel périmètre ?
 En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'indique - l'ensemble des mots de passe des comptes Internet (qui vous permettent d'avoir accès aux "espaces personnels" des différentes organisations avec lesquelles nous sommes en contact) ...   
 ... mais en __pratique__ ils peuvent gérer de nombreux autres types d'information, comme par exemple : 
 - Les mots de passe et codes de vos différents ordinateurs et smartphones (PIN, PUK, ICCID, ...)
