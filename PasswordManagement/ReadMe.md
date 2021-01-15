@@ -48,10 +48,10 @@ B. Installer le(s) plug-in(s) correspondant(s) dans votre(vos) navigateur(s) pr�
 ## Réponses
 Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
 Il s'agit des types suivants : 
-* Information Clefs : Obligatoires, elles représentent le "minimum syndical" d'une fiche de connection
-* Information de Session : Optionelles, elles permettent de satisfaire au mécanime d'authentification unique imposé par certains sites
-* Information de Récupération : Optionelles, elles sont les informations devant être fournies en cas de perte du mot de passe 
-* Information de Gestion : Optionelles, elles incarnent les données potentiellement associées à un espace personnel (e-mail, n° de tel, ...)
+* __Information Clefs__ : Obligatoires, elles représentent le "minimum syndical" d'une fiche de connection
+* __Information de Session__ : Optionelles, elles permettent de satisfaire au mécanime d'authentification unique imposé par certains sites
+* __Information de Récupération__ : Optionelles, elles sont les informations devant être fournies en cas de perte du mot de passe 
+* __Information de Gestion__ : Optionelles, elles incarnent les données potentiellement associées à un espace personnel (e-mail, n° de tel, ...)
 
 ### Informations Clefs
 Il s'agit des informations absoluement nécessaires pour pouvoir gérer vos mots de passe !   
@@ -140,19 +140,19 @@ Pour profiter au maximum du support d'un gestionnaire de mots de passe, il convi
 ### Mode "Nominal"
 
 __Mode "Tiré"__
-Ce mode consiste à préalablement se positioner avec son navigateur Internet préféré sur l'URL son espace personnel ...   
+Ce mode consiste à préalablement se positioner avec son navigateur Internet préféré sur l'URL de son espace personnel ...   
 
 A ce point il est alors possible d'appeller le gestionnaire de mot passe via le bouton de son navigateur pour automatiquement :
 - compléter le champ "Nom d'Utilisateur"
 - compléter le champ "Mot de Passe"
 - appuyer sur le bouton "Se Connecter / Login"
 
-Et finalement se retrouver connecter à son "espace personnel" !
+Et finalement se retrouver connecté à son "espace personnel" !
 
 __Mode "Poussé"__
-Ce mode consiste à contrario à rechercher l'espace paronnel auquel on souhaite se connecter dans le gestionairre de mot de passe ...
+Ce mode consiste à contrario à rechercher l'espace personnel auquel on souhaite se connecter dans le gestionaire de mots de passe ...   
 
-Une fois la bonne "fiche" trouvé, il suffit généralement de cliquer (ou double-cliquer en fonction des des gestionnaires) sur l'URL pour enclancher un processus de connection similaire au mode "Tiré"
+Une fois la bonne "fiche" trouvée, il suffit généralement de cliquer (ou double-cliquer en fonction des gestionnaires) sur l'URL pour enclencher un processus de connection similaire à celui présenté dans le mode "Tiré"
 
 ### Mode "Dégradé"
 Dans certain cas de figure, les choses ne se passe pas comme décrit dans le mode "Nominal" 
