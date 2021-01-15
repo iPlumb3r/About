@@ -107,7 +107,7 @@ Les informations de gestion ne sont pas directement utile pour faire fonctionner
 
 ### Illustration
 Synthèse des différent types d'informations manipulé par un gestionnaire de mots de passe ...
-![synthèse](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_Informations.png)
+![synthèse](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_InfoTypes.png)
 
 ## Périmètre
 En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'indique - l'ensemble des mots de passe des comptes Internet (qui vous permettent d'avoir accès aux "espaces personnels" des organisations avec lesquelles vous êtes en contact) ...   
