@@ -53,9 +53,9 @@ Il s'agit des informations absoluement nécessaires pour pouvoir gérer vos mots
 
 En bref, il s'agit de :
 - Le __Titre__ (Label) 
-- L'__Adresse du Site__ (Web Site) 
-- Le __Nom d'Utilisateur__ (Username)
-- Le __Mot de Passe__ (Password)
+- L'__URL de Connection__ (WebSite) 
+- Le __Nom d'Utilisateur__ (UserName)
+- Le __Mot de Passe__ (PassWord)
 
 De mannière plus détaillé il s'agit de :
 
@@ -74,9 +74,9 @@ De mannière plus détaillé il s'agit de :
             <td>Il s'agit d'une simple chaîne de caractères qui permet de retrouver la "fiche" relative à ce compte Internet dans le gestionnaire de mots de passe.</td>
         </tr>
         <tr>
-            <td>Adresse du Site</td>
+            <td>URL de Connection</td>
             <td>Equivalent d'une adresse postale, mais pour le "cyber-espace".</td>
-            <td>Il s'agit d'une "URL" (= Unified Resource Locator).</td>
+            <td>URL = Unified Resource Locator.</td>
         </tr>
         <tr>
             <td>Nom d'Utilisateur</td>
@@ -91,12 +91,15 @@ De mannière plus détaillé il s'agit de :
     </tbody>
 </table>
 
-### Informations Complémentaires
+
+### Informations de Session
+- Code Calculé (Sur une base temporelle, généralement de 30 Secondes) ou TOTP (Time-based One-Time) : Code à usage unique permettant de se connecter au compte Internet (Surtout utilisé par les site web en lien avec la gestion d'argent)
+
+### Informations de Récupération
 Les informations complémentaires peuvent être diverses et variées ...   
 ... mais traditionellement ont retrouve les informations suivantes :
 - Question(s) Secrête(s) : 1 (ou plusieurs) question(s) permettant de re-initialiser le mot de passe en cas de perte
 - Réponse(s) Secrête(s) : Réponse(s) associée(s) à la (aux) question(s)
-- TOTP (Time-based One-Time) : Code à usage unique permettant de se connecter au compte Internet (Surtout utilisé par les site web en lien avec la gestion d'argent)
 
 ### Informations de Gestion
 Les informations de gestion ne sont pas directement utile pour faire fonctionner le gestionnaire de mots de passe ...   
