@@ -11,16 +11,15 @@ Pouvoir gérer la __TOTALITE__ de ses mots de passe _"compliqués"_ ...
 1. __Parce qu'il y a maintenant vraiment TROP de mots de passe à se souvenir__
 > Car la moindre relation avec une organisation, que se soit une société ou une association, 
 un client, un fournisseur, un partenaire, une banque, une assurance, une coopérative, une mutuelle, ...   
-... ou encore un simple site de commerce en ligne sur Internet vous ne manquerais pas de devoir 
-créer un "compte" pour pouvoir accéder à votre "espace personnel" pour gérer votre relation
-avec l'organisation en question.
+... ou encore un simple site de commerce en ligne sur Internet nous ne manquons pas de devoir créer       
+un "compte" pour pouvoir accéder à notre "espace personnel" pour gérer notre relation avec l'organisation en question.
 
 > Et le compteur grimpe vite, très vite !   
-=> Il n'est pas rare en effet de devoir gérer 20, 30, et voire 50 mots de passe ...   
-... ou plus encore selon l'intensité de votre activité "Internet"
+=> Il n'est pas rare en effet de devoir gérer 20, 30, et même 50 mots de passe ...   
+... ou plus encore selon l'intensité de notre activité "Internet"
 
 > NB : Il y fort a parier, que le jour viendra où cette "mécanique diabolique" sera inversée ...   
-(se sera alors aux différentes organisations avec qui vous êtes en relation qui devront avoir "compte" chez vous)   
+(ce sera alors aux différentes organisations avec qui nous sommes en relation qui devront avoir "compte" chez vous)   
 ... mais ce jour n'est pas encore arrivé et pour l'heure il faut bien s'adapter à la situation actuelle si absurde soit-elle !!!
 
 > Tous cela pour faire en sorte que la gestion des mots de passe nous simplifie la vie au lieu de nous la compliquer ...
@@ -34,7 +33,7 @@ avec l'organisation en question.
 
 3. __Parce que chaque mot de passe doit être UNIQUE__
 > De nombreux sites web, et en particulier les sites qui gère de l'argent ou qui pemettent de faire des achats font l'objet d'attaques ciblées permanentes, mais ce ne sont pas les seuls ...    
-... en effet, les pirates informatiques essayent aussi d'attaquer des sites "à priori peu sensibles" uniquement dans le but de récupérer des données personnelles d'utilisateurs qui seront ensuite revendus à bon prix sur le "dark net" à d'autres pirates qui eessayerons à leur tour d'utiliser les informations récupérées et de les tester sur des sites plus critiques.   
+... en effet, les pirates informatiques essayent aussi d'attaquer des sites "à priori peu sensibles" uniquement dans le but de récupérer des données personnelles d'utilisateurs qui seront ensuite revendus à bon prix sur le "dark net" à d'autres pirates qui essayerons à leur tour d'utiliser les informations récupérées et de les tester sur des sites plus critiques.   
 
 > C'est pourquoi il est crucial de ne __PAS__ réutiliser 2 fois le même mot de passe pour ses comptes "en ligne"
 
@@ -43,13 +42,16 @@ avec l'organisation en question.
 En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'indique - l'ensemble des mots de passe des comptes Internet (qui nous permettent d'avoir accès aux __"espaces personnels__ des différentes organisations avec lesquelles nous sommes en contact) ...   
 ... mais en __pratique__ ils peuvent gérer de nombreux autres types d'information, comme par exemple : 
 - Les mots de passe et/ou codes de nos différents ordinateurs et smartphones (PIN, PUK, ICCID, ...)
+- Les mots de passe de session de système d'exploitation (pour ceux d'entre-nous qui gérons des ordinateurs dans le "cloud")
 - Les mots de passe de certains logiciels installés sur nos ordinateurs et smartphones
+- Les clefs WEP/WPA des réseaux WiFi
+- Les clefs de cryptage de coffre-fort numérique (contenant des données et/ou documents cryptés) ou de sauvegardes cryptées
 - Les informations de nos cartes de crédits (vous permettant ainsi de remplir automatiquement les formulaires de payement des site de commerces en ligne)
-- Les autres informations bancaires / monétaires / financières comme les RIB, les "graines crytographiques", ...
+- Les autres informations bancaires / monétaires / financières comme les RIB, les "graines crytographiques" d'accès à des crypto-actifs, ...
 - Les informations d'état civil : CNI, Passeport, Permis de conduire, ...
 - Les licences logicielles 
 - Etc ...
-
+<
 ![Scope](https://github.com/iPlumb3r/About/blob/master/images/PasswordManager_Scope.jpg)
 
 ## Quels types d'information ?
