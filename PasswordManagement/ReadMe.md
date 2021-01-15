@@ -103,7 +103,8 @@ De mannière plus détaillé il s'agit de :
 
 
 ### Informations de Session
-- Code Calculé (Sur une base temporelle, généralement de 30 Secondes) ou TOTP (Time-based One-Time) : Code à usage unique permettant de se connecter au compte Internet (Surtout utilisé par les site web en lien avec la gestion d'argent)
+- Code Calculé (Sur une base temporelle, généralement de 30 Secondes) : Code à usage unique permettant de se connecter au compte Internet. Surtout utilisé par les site web en lien avec la gestion de fonds "Fiat" ($EUR, $USD, ...) et/ou Crypto-Actifs($BTC, $USDT, ...)
+> Généralement nommé "2FA Key" (Double Factor Authentication) ou TOTP (Time-based One-Time).
 
 ### Informations de Récupération
 Les informations complémentaires peuvent être diverses et variées ...   
