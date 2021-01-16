@@ -135,7 +135,7 @@ Pour profiter au maximum du support d'un gestionnaire de mots de passe, il convi
 - des mot de passe "numérique" utilisé par les banques (car leur saisie ne peut se fire que via un "clavier virtuel numérique"
 - de l'ID Apple qui sert à la fois pour l'Apple Store (Achats de musique, libre audio, applications, ...) et iCloud (Synchronicaiton de fichiers)
 
-### Mode "Nominal"
+### Fonctionnement "Nominal"
 
 __Mode "Tiré"__
 Ce mode consiste à préalablement se positioner avec son navigateur Internet préféré sur l'URL de son espace personnel ...   
@@ -152,8 +152,8 @@ Ce mode consiste à contrario à rechercher l'espace personnel auquel on souhait
 
 Une fois la bonne "fiche" trouvée, il suffit généralement de cliquer (ou double-cliquer en fonction des gestionnaires) sur l'URL pour enclencher un processus de connection similaire à celui présenté dans le mode "Tiré"
 
-### Mode "Dégradé"
-Dans certain cas de figure, les choses ne se passe pas comme décrit dans le mode "Nominal" 
+### Fonctionnement "Dégradé"
+Dans certain cas de figure, les choses ne se passe pas comme décrit dans le fonctionnement "Nominal" 
 > En effet, tous les site Internet ne respectent pas les _bonnes pratiques_ de connections ...
 ... et il est alors nécessaire de s'adapter au contexte particulier de la situation.
 
