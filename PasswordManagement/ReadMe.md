@@ -174,7 +174,7 @@ Les applications suivantes sont vivement recommandés :
 - 1Password (Mac) : https://1password.com/ 
 > Très convivial
 - Enpass (Mac, Windows, Linux) : https://www.enpass.io/
-> Nombreuses plateformes : Ordinateur et Smartphone   
+> Nombreuses plateformes : Ordinateurs et Smartphones   
 > Nombreux modes de synchronication   
 > Générateur de mots de passe avec de nombreuses "recettes"   
 > Intégration du TOTP   
