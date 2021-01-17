@@ -46,16 +46,16 @@ A la base, les gestionnaires de mots de passe onté été conçus pour gérer l'
 - Les mots de passe de certains logiciels installés sur nos ordinateurs et smartphones
 - Les clefs WEP/WPA des réseaux WiFi auxquels nous nous connectons
 - Les clefs de cryptage de coffre-fort numérique (contenant des données et/ou documents cryptés) ou de sauvegardes cryptées
-- Les informations de nos cartes de crédits (permettant ainsi de remplir automatiquement les formulaires de payement des site de commerce en ligne)
+- Les informations de nos cartes de crédits (permettant ainsi de remplir automatiquement les formulaires de payement des sites de commerce en ligne)
 - Les autres informations bancaires / monétaires / financières  (RIB, "graines crytographiques" d'accès à des crypto-actifs, ...)
-- Les informations d'état civil (CNI, Passeport, Permis de conduire, Carte Verte, ...)
-- Les licences logicielles 
+- Les informations d'état civil (CNI, Passeport, Permis de conduire, Carte "Verte", ...)
+- Les clefs de licences logicielles
 - Etc ...   
 
 ![Scope](https://github.com/iPlumb3r/About/blob/master/images/PasswordManager_Scope.jpg)
 
 ## Quels types d'information ?
-Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
+Cette section est relatives aux différents types d'information qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
 Il s'agit des types suivants : 
 
 <table>
@@ -102,7 +102,7 @@ Elles sont au nombre de 4 :
 - Le __Nom d'Utilisateur__ (UserName)
 - Le __Mot de Passe__ (PassWord)
 
-De mannière plus détaillé il s'agit de :
+De manière plus détaillé il s'agit de :
 
 <table>
     <thead>
