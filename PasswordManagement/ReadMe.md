@@ -46,9 +46,9 @@ En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'i
 - Les mots de passe de certains logiciels installés sur nos ordinateurs et smartphones
 - Les clefs WEP/WPA des réseaux WiFi
 - Les clefs de cryptage de coffre-fort numérique (contenant des données et/ou documents cryptés) ou de sauvegardes cryptées
-- Les informations de nos cartes de crédits (vous permettant ainsi de remplir automatiquement les formulaires de payement des site de commerces en ligne)
-- Les autres informations bancaires / monétaires / financières comme les RIB, les "graines crytographiques" d'accès à des crypto-actifs, ...
-- Les informations d'état civil : CNI, Passeport, Permis de conduire, ...
+- Les informations de nos cartes de crédits (permettant ainsi de remplir automatiquement les formulaires de payement des site de commerces en ligne)
+- Les autres informations bancaires / monétaires / financières  (RIB, "graines crytographiques" d'accès à des crypto-actifs, ...)
+- Les informations d'état civil (CNI, Passeport, Permis de conduire, Carte Verte, ...)
 - Les licences logicielles 
 - Etc ...
 
@@ -64,7 +64,7 @@ Il s'agit des types suivants :
             <th>Information de ...</th>
             <th>Modalité</th>
             <th>Description</th>
-            <th>Comment</th>
+            <th>Commentaire(s)</th>
         </tr>
     </thead>
     <tbody>
