@@ -51,7 +51,7 @@ En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'i
 - Les informations d'état civil : CNI, Passeport, Permis de conduire, ...
 - Les licences logicielles 
 - Etc ...
-<
+
 ![Scope](https://github.com/iPlumb3r/About/blob/master/images/PasswordManager_Scope.jpg)
 
 ## Quels types d'information ?
