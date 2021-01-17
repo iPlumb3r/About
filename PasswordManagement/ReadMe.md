@@ -62,6 +62,44 @@ Il s'agit des types suivants :
 * __Informations de Récupération__ : Optionelles, ce sont les informations devant être fournies en cas de perte du mot de passe pour en générer un nouveau
 * __Informations de Gestion__ : Optionelles, elles incarnent les données potentiellement associées à un espace personnel (e-mail, n° de tel, ...)
 
+
+<table>
+    <thead>
+        <tr>
+            <th>Label</th>
+            <th>Modalité</th>
+            <th>Description</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Informations de CONNECTION</td>
+            <td>Obligatoires</td>
+            <td>A3</td>
+            <td>A4</td>
+        </tr>
+        <tr>
+            <td>Informations de SESSION</td>
+            <td>Conseillées</td>
+            <td>A3</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Informations de RECUPERATION</td>
+            <td>Optionelles</td>
+            <td>A3</td>
+            <td>A4</td>
+        </tr>
+        <tr>
+            <td>Informations de GESTION</td>
+            <td>Optionelles</td>
+            <td>A3</td>
+            <td>A4</td>
+        </tr>
+    </tbody>
+</table>
+
 ### Informations Clefs 
 Elles sont au nombre de 4 :   
 - Le __Titre__ (Label) 
