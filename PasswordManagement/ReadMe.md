@@ -156,7 +156,7 @@ Les informations de gestion ne sont pas directement utile pour faire fonctionner
 
 ### Illustration
 Synthèse des différent types d'informations manipulés par un gestionnaire de mots de passe ...   
-![Info](https://github.com/iPlumb3r/About/blob/master/images/PasswordManagement_Info.jpg)
+![Info](https://github.com/iPlumb3r/About/blob/master/images/PasswordManager_Info.jpg)
 
 
 ## Fonctionnement
