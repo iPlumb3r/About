@@ -57,11 +57,6 @@ En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'i
 ## Quels types d'information ?
 Cette section est relatives aux différents types d'informations qu'un gestionnaire de mot de passe à besoin pour être vraiment efficasse.
 Il s'agit des types suivants : 
-* __Informations Clefs__ : Obligatoires, elles représentent le "minimum syndical" d'une fiche de connection
-* __Informations de Session__ : Optionelles, elles permettent de satisfaire au mécanisme d'authentification "à double facteur" imposé par certains sites
-* __Informations de Récupération__ : Optionelles, ce sont les informations devant être fournies en cas de perte du mot de passe pour en générer un nouveau
-* __Informations de Gestion__ : Optionelles, elles incarnent les données potentiellement associées à un espace personnel (e-mail, n° de tel, ...)
-
 
 <table>
     <thead>
@@ -76,26 +71,26 @@ Il s'agit des types suivants :
         <tr>
             <td>Informations de CONNECTION</td>
             <td>Obligatoires</td>
-            <td>A3</td>
-            <td>A4</td>
+            <td>Représentent le "minimum syndical" d'une fiche de connection</td>
+            <td>Sans elles impossible de se connecter automatiquement</td>
         </tr>
         <tr>
             <td>Informations de SESSION</td>
             <td>Conseillées</td>
-            <td>A3</td>
-            <td></td>
+            <td>Permettent de satisfaire au mécanisme d'authentification "à double facteur" imposé par certains sites</td>
+            <td>Utiles pour les sites gérant des fonds</td>
         </tr>
         <tr>
             <td>Informations de RECUPERATION</td>
             <td>Optionelles</td>
-            <td>A3</td>
-            <td>A4</td>
+            <td>Doivent être fournies en cas de perte du mot de passe pour en générer un nouveau</td>
+            <td>Seuls certains sites demande ce tyoe d'information</td>
         </tr>
         <tr>
             <td>Informations de GESTION</td>
             <td>Optionelles</td>
-            <td>A3</td>
-            <td>A4</td>
+            <td>Incarnent les données potentiellement associées à un espace personnel</td>
+            <td>Exemple :  e-mail, n° de tel, ...</td>
         </tr>
     </tbody>
 </table>
