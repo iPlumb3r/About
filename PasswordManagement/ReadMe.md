@@ -61,7 +61,7 @@ Il s'agit des types suivants :
 <table>
     <thead>
         <tr>
-            <th>Label</th>
+            <th>Information de ...</th>
             <th>Modalité</th>
             <th>Description</th>
             <th>Comment</th>
@@ -69,25 +69,25 @@ Il s'agit des types suivants :
     </thead>
     <tbody>
         <tr>
-            <td>Informations de CONNECTION</td>
+            <td>CONNECTION</td>
             <td>Obligatoires</td>
             <td>Représentent le "minimum syndical" d'une fiche de connection</td>
             <td>Sans elles impossible de se connecter automatiquement</td>
         </tr>
         <tr>
-            <td>Informations de SESSION</td>
+            <td>SESSION</td>
             <td>Conseillées</td>
             <td>Permettent de satisfaire au mécanisme d'authentification "à double facteur" imposé par certains sites</td>
             <td>Utiles pour les sites gérant des fonds</td>
         </tr>
         <tr>
-            <td>Informations de RECUPERATION</td>
+            <td>RECUPERATION</td>
             <td>Optionelles</td>
             <td>Doivent être fournies en cas de perte du mot de passe pour en générer un nouveau</td>
             <td>Seuls certains sites demande ce tyoe d'information</td>
         </tr>
         <tr>
-            <td>Informations de GESTION</td>
+            <td>GESTION</td>
             <td>Optionelles</td>
             <td>Incarnent les données potentiellement associées à un espace personnel</td>
             <td>Exemple :  e-mail, n° de tel, ...</td>
@@ -95,7 +95,7 @@ Il s'agit des types suivants :
     </tbody>
 </table>
 
-### Informations Clefs 
+### Informations de CONNECTION 
 Elles sont au nombre de 4 :   
 - Le __Titre__ (Label) 
 - L'__URL de Connection__ (WebSite) 
@@ -137,17 +137,17 @@ De mannière plus détaillé il s'agit de :
 </table>
 
 
-### Informations de Session
+### Informations de SESSION
 - Code Calculé (Sur une base temporelle, généralement de 30 Secondes) : Code à usage unique permettant de se connecter au compte Internet. Surtout utilisé par les site web en lien avec la gestion de fonds "Fiat" ($EUR, $USD, ...) et/ou Crypto-Actifs($BTC, $USDT, ...)
 > Généralement nommé "2FA Key" (Double Factor Authentication) ou TOTP (Time-based One-Time).
 
-### Informations de Récupération
+### Informations de RECUPERATION
 Les informations complémentaires peuvent être diverses et variées ...   
 ... mais traditionellement ont retrouve les informations suivantes :
 - Question(s) Secrête(s) : 1 (ou plusieurs) question(s) permettant de re-initialiser le mot de passe en cas de perte
 - Réponse(s) Secrête(s) : Réponse(s) associée(s) à la (aux) question(s)
 
-### Informations de Gestion
+### Informations de GESTION
 Les informations de gestion ne sont pas directement utile pour faire fonctionner le gestionnaire de mots de passe ...   
 ... mais elle peuvent servir pour organiser les différentes "fiches" (surtout lorsqu'il y en a beaucoup) !   
 - Adresse e-mail associée : lorque le nom d'utilisateur n'est pas un e-mail, il peut être intéressant de noter l'adresse e-mail asssocié à ce compte Internet
