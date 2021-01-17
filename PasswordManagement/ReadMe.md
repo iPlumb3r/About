@@ -39,18 +39,18 @@ un "compte" pour pouvoir accéder à notre "espace personnel" pour gérer notre 
 
 
 ## Quel périmètre ?
-En __théorie__, les gestionnaires de mots de passe gèrent - comme leur nom l'indique - l'ensemble des mots de passe des comptes Internet (qui nous permettent d'avoir accès aux __"espaces personnels__ des différentes organisations avec lesquelles nous sommes en contact) ...   
-... mais en __pratique__ ils peuvent gérer de nombreux autres types d'information, comme par exemple : 
+A la base, les gestionnaires de mots de passe onté été conçus pour gérer l'ensemble des mots de passe des comptes Internet (qui nous permettent d'avoir accès aux __"espaces personnels__ des différentes organisations avec lesquelles nous sommes en contact) ...   
+... mais en pratique, ils peuvent gérer de nombreux autres types d'information, comme par exemple : 
 - Les mots de passe et/ou codes de nos différents ordinateurs et smartphones (PIN, PUK, ICCID, ...)
-- Les mots de passe de session de système d'exploitation (pour ceux d'entre-nous qui gérons des ordinateurs dans le "cloud")
+- Les mots de passe de session de systèmes d'exploitation (pour ceux d'entre-nous qui gérons des ordinateurs dans le "cloud")
 - Les mots de passe de certains logiciels installés sur nos ordinateurs et smartphones
-- Les clefs WEP/WPA des réseaux WiFi
+- Les clefs WEP/WPA des réseaux WiFi auxquels nous nous connectons
 - Les clefs de cryptage de coffre-fort numérique (contenant des données et/ou documents cryptés) ou de sauvegardes cryptées
-- Les informations de nos cartes de crédits (permettant ainsi de remplir automatiquement les formulaires de payement des site de commerces en ligne)
+- Les informations de nos cartes de crédits (permettant ainsi de remplir automatiquement les formulaires de payement des site de commerce en ligne)
 - Les autres informations bancaires / monétaires / financières  (RIB, "graines crytographiques" d'accès à des crypto-actifs, ...)
 - Les informations d'état civil (CNI, Passeport, Permis de conduire, Carte Verte, ...)
 - Les licences logicielles 
-- Etc ...
+- Etc ...   
 
 ![Scope](https://github.com/iPlumb3r/About/blob/master/images/PasswordManager_Scope.jpg)
 
