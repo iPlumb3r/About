@@ -21,3 +21,6 @@
 
 
 ## Idriss Aberkane
+
+<a href="https://www.youtube.com/watch?v=Uh6I4ygf9Yk">Le pouvoir de la connaissance</a>
+> A propos d'économie de la connaissance
