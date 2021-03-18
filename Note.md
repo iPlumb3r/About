@@ -19,6 +19,11 @@
 
 ## Jean-François Noubel
 
+<a href="https://www.youtube.com/watch?v=un5PJkTGCoY">De l'homosapiens à l'holosapiens : Une évolution en route ?</a>
+> A propos de l'évolution de l'intelligence collective (Tribale => Pyramidale => Holomidale)
+
+<a href="https://www.youtube.com/watch?v=hJvXLdkGbj0&t=30s">L'économie d'après</a>
+> A propos d'économie du monde d'après
 
 ## Idriss Aberkane
 
