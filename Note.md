@@ -11,6 +11,11 @@
 
 ## Philippe Guillermant
 
+<a href="https://www.youtube.com/watch?v=pVHOajIfa8g">Qu'est-ce que le réel ? </a>
+> Une remise en cause du matérialisme
+
+<a href="https://www.youtube.com/watch?v=fdvEoDcVrEA">Les 3 niveaux de conscience</a>
+> Un modèle de la conscience 
 
 ## Jean-François Noubel
 
