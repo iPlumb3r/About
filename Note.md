@@ -7,3 +7,12 @@
 
 <a href="https://www.youtube.com/watch?v=5-qap1cQhGA">La thermodynamique des transitions économiques</a>
 > A propos des analogies entre la thermodynamique, la biologie et l'économie
+
+
+## Philippe Guillermant
+
+
+## Jean-François Noubel
+
+
+## Idriss Aberkane
