@@ -24,3 +24,6 @@
 
 <a href="https://www.youtube.com/watch?v=Uh6I4ygf9Yk">Le pouvoir de la connaissance</a>
 > A propos d'économie de la connaissance
+
+<a href="https://www.youtube.com/watch?v=ibIjlXSagME">Comment libérer notre cerveau ?</a>
+> A propos du potentiel de la conscience
