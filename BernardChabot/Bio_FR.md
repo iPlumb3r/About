@@ -26,3 +26,4 @@ Maintenant "retraité" il se consacre, à partiel, aux projets qu'il trouve int�
    - l'écosystème HOLO, Holochain & Neighbourhoods
    - <a href="https://pierrelevyblog.com/tag/ieml/">IEML</a>
    - <a href="https://keeplink.com/">KeepLink</a>
+   - <a href="https://infocentral.org/">InfoCentral</a>
