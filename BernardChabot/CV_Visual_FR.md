@@ -7,4 +7,4 @@ Synthèse
 
 Zoom
 -
-![Visual CV](https://github.com/iPlumb3r/About/blob/master/images/CV_Visual_Main.png)
+![Visual CV](https://github.com/iPlumb3r/About/blob/master/images/CV_Visual_Zoom.png)
