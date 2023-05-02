@@ -16,10 +16,10 @@ Il a ensuite réalisé durant 15 ans des __missions PLM__  (la plupart du temps
 Pendant cette même période il a mis en oeuvre les __normes et technologies du web sémantique__ (RDF, RDFS, OWL, SPARQL, …) sur les différents domaines de connaissances relatifs à des approches de type __“architecture d’entreprise”__ et/ou __“urbanisation des SI__ dans le but d’industrialiser et d’accélérer les phases amonts d'un projet PLM.
 
 ------
-Actuellement consultant indépendant, Bernard Chabot, travaille principalement sur une offre permettant de spécifier des modèles métiers formels "testables", “explicables” et "exécutables" (basé sur des ontologies OWL et des règles SWRL). 
+Actuellement consultant indépendant, Bernard Chabot, travaille principalement sur une offre permettant de spécifier des __modèles métiers__ formels "testables", “explicables” et "exécutables" (basé sur des ontologies OWL et des règles SWRL). 
 
 ------
-Cette offre de type #XAI (= “eXplainable Artificial Intelligence”), bien qu’avant tout destinée aux industriels souhaitant appliquer les méthodes et outils de l’ingénierie des connaissances au domaine du PLM revêt un caractère hautement générique lui permettant d’être utilisés dans de nombreux domaines.
+Cette offre de type XAI (= “eXplainable Artificial Intelligence”), bien qu’avant tout destinée aux industriels souhaitant appliquer les méthodes et outils de l’ingénierie des connaissances au domaine du PLM revêt __un caractère hautement générique__ lui permettant d’être utilisés dans de ___nombreux__ domaines.
 
 ------
 Maintenant "retraité" il se consacre, à temps partiel, aux projets qu'il trouve intéressants ; en particulier : 
