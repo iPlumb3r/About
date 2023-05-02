@@ -20,3 +20,6 @@ Actuellement consultant indépendant, Bernard Chabot, travaille principalement s
 
 ------
 Cette offre de type #XAI (= “eXplainable Artificial Intelligence”), bien qu’avant tout destinée aux industriels souhaitant appliquer les méthodes et outils de l’ingénierie des connaissances au domaine du PLM revêt un caractère hautement générique lui permettant d’être utilisés dans de nombreux domaines.
+
+------
+Maintenant "retraité" il se consacre, à partiel, aux projets qu'il trouve intéressant et en parculier à l'écosystème HOLO, Holochain & Neighbourhoods
