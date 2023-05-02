@@ -24,6 +24,6 @@ Cette offre de type #XAI (= “eXplainable Artificial Intelligence”), bien qu�
 ------
 Maintenant "retraité" il se consacre, à partiel, aux projets qu'il trouve intéressants et en parculier : 
    - l'écosystème HOLO, Holochain & Neighbourhoods
-   - <a href="https://intlekt.io/">IEML</a> : Article <a href="https://pierrelevyblog.com/tag/ieml/">IEML</a>
+   - <a href="https://intlekt.io/">IEML</a> : Article <a href="https://pierrelevyblog.com/tag/ieml/">Comment construire un concept en IEML ?</a>
    - <a href="https://keeplink.com/">KeepLink</a> : Article <a href="https://www.linkedin.com/pulse/link-reification-multi-typing-meta-modeling-zen-bernard-chabot/">About Link Reification, Multi-Typing, Meta-Modeling … & Zen</a>
    - <a href="https://infocentral.org/">InfoCentral</a> : Article <a href="https://infocentral.org/drafts/PrinciplesDraft.html">Unifying Principles for Next Generation Computing</a>
