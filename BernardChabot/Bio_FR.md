@@ -22,7 +22,7 @@ Actuellement consultant indépendant, Bernard Chabot, travaille principalement s
 Cette offre de type #XAI (= “eXplainable Artificial Intelligence”), bien qu’avant tout destinée aux industriels souhaitant appliquer les méthodes et outils de l’ingénierie des connaissances au domaine du PLM revêt un caractère hautement générique lui permettant d’être utilisés dans de nombreux domaines.
 
 ------
-Maintenant "retraité" il se consacre, à partiel, aux projets qu'il trouve intéressants et en parculier : 
+Maintenant "retraité" il se consacre, à temps partiel, aux projets qu'il trouve intéressants ; en particulier : 
    - l'écosystème HOLO, Holochain & Neighbourhoods
    - <a href="https://intlekt.io/">IEML</a> : Article <a href="https://pierrelevyblog.com/tag/ieml/">Comment construire un concept en IEML ?</a>
    - <a href="https://keeplink.com/">KeepLink</a> : Article <a href="https://www.linkedin.com/pulse/link-reification-multi-typing-meta-modeling-zen-bernard-chabot/">About Link Reification, Multi-Typing, Meta-Modeling … & Zen</a>
