@@ -21,7 +21,7 @@ Son objectif étant de pouvoir "in fine" matricer ce concept avec une approche d
 
 ------
 
-Maintenant "retraité" il se consacre, à temps partiel, aux projets qu'il trouve intéressants ; en particulier : 
+Maintenant "retraité" il se consacre seulement et à temps partiel, aux projets qu'il trouve intéressants ; en particulier : 
    - L'écosystème <a href="https://holo.host/">HOLO</a> , <a href="https://www.holochain.org/">Holochain</a> & <a href="https://neighbourhoods.network/">Neighbourhoods</a>
    - Le framework <a href="https://www.odase.io/">ODASE</a> 
    - Le langage <a href="https://intlekt.io/">IEML</a> : Article <a href="https://pierrelevyblog.com/tag/ieml/">Comment construire un concept en IEML ?</a>
