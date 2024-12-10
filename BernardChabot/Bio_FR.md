@@ -13,10 +13,10 @@ Durant cette période il a également travaillé à l'adaptation des __principes
 Il a ensuite réalisé durant 15 ans des __missions PLM__  (la plupart du temps avec un positionnement __"assistance à maîtrise d’ouvrage"__) dans un grand nombre d’entreprises, petites ou grandes, et appartenant à des secteurs industriels très variés (énergie, automobile, manufacturing, agro-alimentaire, cosmétique, textile, …).
 
 ------
-Pendant cette même période il a mis en oeuvre les __normes et technologies du web sémantique__ (RDF, RDFS, OWL, SPARQL, …) sur les différents domaines de connaissances relatifs à des approches de type __“architecture d’entreprise”__ et/ou __“urbanisation des SI__ dans le but d’industrialiser et d’accélérer les phases amonts d'un projet PLM.
+Pendant cette même période il a mis en oeuvre les __normes et technologies du web sémantique__ (RDF, RDFS, OWL, SPARQL, …) sur les différents domaines de connaissances relatifs à des approches de type __“architecture d’entreprise”__ et/ou __“urbanisation des SI__ dans le but d’industrialiser et d’accélérer les phases amonts d'un projet __PLM__.
 
 ------
-Puis, en tant que consultant indépendant, Bernard Chabot, a dévelopé le concept de __xLM__ (pour "x Lifecyccle Management), c'est à dire la gestion du cycle de vie de n'importe quelle chose. Son objectif étant de pouvoir l'appliquer avec une approche de type __XAI__  (= “eXplainable Artificial Intelligence”) permettant de spécifier des __modèles métiers__ formels "testables", “explicables” et "exécutables" (basé sur des ontologies OWL et des règles SWRL). 
+Puis, en tant que consultant indépendant, Bernard Chabot a dévelopé le concept de __xLM__ (pour "x Lifecyccle Management), c'est à dire la gestion du cycle de vie de n'importe quelle chose (Produit, Process, Service, Application, ...) . Son objectif étant de pouvoir "matricer" ce concept avec une approche de type __XAI__  (= “eXplainable Artificial Intelligence”) permettant de spécifier des __modèles métiers__ formels "testables", “explicables” et "exécutables" (basé sur des ontologies OWL et des règles SWRL). 
 
 ------
 
