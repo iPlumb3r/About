@@ -21,7 +21,8 @@ Puis, en tant que consultant indépendant, Bernard Chabot, a dévelopé le conce
 ------
 
 Maintenant "retraité" il se consacre, à temps partiel, aux projets qu'il trouve intéressants ; en particulier : 
-   - L'écosystème <a href="https://holo.host/">HOLO</a> , <a href="https://www.holochain.org/">Holochain</a>  & <a href="https://neighbourhoods.network/">Neighbourhoods</a> 
-   - <a href="https://intlekt.io/">IEML</a> : Article <a href="https://pierrelevyblog.com/tag/ieml/">Comment construire un concept en IEML ?</a>
-   - <a href="https://keeplink.com/">KeepLink</a> : Article <a href="https://www.linkedin.com/pulse/link-reification-multi-typing-meta-modeling-zen-bernard-chabot/">About Link Reification, Multi-Typing, Meta-Modeling … & Zen</a>
-   - <a href="https://infocentral.org/">InfoCentral</a> : Article <a href="https://infocentral.org/drafts/PrinciplesDraft.html">Unifying Principles for Next Generation Computing</a>
+   - L'écosystème <a href="https://holo.host/">HOLO</a> , <a href="https://www.holochain.org/">Holochain</a> & <a href="https://neighbourhoods.network/">Neighbourhoods</a>
+   - Le framework <a href="https://www.odase.io/">ODASE</a> 
+   - Le langage <a href="https://intlekt.io/">IEML</a> : Article <a href="https://pierrelevyblog.com/tag/ieml/">Comment construire un concept en IEML ?</a>
+   - L'application <a href="https://keeplink.com/">KeepLink</a> : Article <a href="https://www.linkedin.com/pulse/link-reification-multi-typing-meta-modeling-zen-bernard-chabot/">About Link Reification, Multi-Typing, Meta-Modeling … & Zen</a>
+   - La spécification <a href="https://infocentral.org/">InfoCentral</a> : Article <a href="https://infocentral.org/drafts/PrinciplesDraft.html">Unifying Principles for Next Generation Computing</a>
