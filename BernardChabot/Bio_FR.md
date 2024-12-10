@@ -1,7 +1,7 @@
 Bio de Bernard Chabot
 ==
 
-Bernard Chabot est expert en __ingénierie des connaissances__ et en __gestion du cycle de vie produit__ (domaine plus connu via son acronyme anglo-saxon de PLM = “Product Lifecycle Management”).
+Bernard Chabot est expert en __ingénierie des connaissances__ et en __gestion du cycle de vie produit__ (domaine plus connu via son acronyme anglo-saxon de __PLM__ = “Product Lifecycle Management”).
 
 ------
 __Ingénieur agroalimentaire__ de formation, il a animé durant 10 ans des équipes de techniciens de __recherche-développement__ et d’__industrialisation__ de produits agro-alimentaire destinés à la grande distribution …
