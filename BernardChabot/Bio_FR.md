@@ -17,7 +17,7 @@ Pendant cette même période il a mis en oeuvre les __normes et technologies du 
 
 ------
 Puis, en tant que consultant indépendant, Bernard Chabot a dévelopé le concept de <a href="https://github.com/iPlumb3r/SEAMLESS/blob/master/Analysis/About_xLM_FR.md">xLM</a> (pour "x Lifecycle Management), c'est à dire la gestion du cycle de vie de n'importe quelle chose (Produit, Process, Service, Application, ...).   
-Son objectif étant de pouvoir "matricer" ce concept avec une approche de type __XAI__  (= “eXplainable Artificial Intelligence”) permettant de spécifier des __modèles métiers__ formels "testables", “explicables” et "exécutables" (basé sur des ontologies OWL et des règles SWRL). 
+Son objectif étant de pouvoir "in fine" matricer ce concept avec une approche de type __XAI__  (= “eXplainable Artificial Intelligence”) permettant de spécifier des __modèles métiers__ formels "testables", “explicables” et "exécutables" (basé sur des ontologies OWL et des règles SWRL). 
 
 ------
 
