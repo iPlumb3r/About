@@ -16,7 +16,7 @@ Il a ensuite réalisé durant 15 ans des __missions PLM__  (la plupart du temps
 Pendant cette même période il a mis en oeuvre les __normes et technologies du web sémantique__ (RDF, RDFS, OWL, SPARQL, …) sur les différents domaines de connaissances relatifs à des approches de type __“architecture d’entreprise”__ et/ou __“urbanisation des SI__ dans le but d’industrialiser et d’accélérer les phases amonts d'un projet PLM.
 
 ------
-Puis, en tant que consultant indépendant, Bernard Chabot, a dévelopé le concept de __xLM__ (pour "x Lifecyccle Management), c'est à dire la gestion du cycle de vie de n'importe quelle chose. Son objectif étant de pouvoir l'appliquer avec une approche de type XAI  (= “eXplainable Artificial Intelligence”) permettant de spécifier des __modèles métiers__ formels "testables", “explicables” et "exécutables" (basé sur des ontologies OWL et des règles SWRL). 
+Puis, en tant que consultant indépendant, Bernard Chabot, a dévelopé le concept de __xLM__ (pour "x Lifecyccle Management), c'est à dire la gestion du cycle de vie de n'importe quelle chose. Son objectif étant de pouvoir l'appliquer avec une approche de type __XAI__  (= “eXplainable Artificial Intelligence”) permettant de spécifier des __modèles métiers__ formels "testables", “explicables” et "exécutables" (basé sur des ontologies OWL et des règles SWRL). 
 
 ------
 
